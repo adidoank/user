@@ -5,3 +5,4 @@ $data= [
 'Lucy Thien','Adi Trader Demo','Mif Takhul','Fenjul',
         ];
 $ydnews = ['tes',];
+$toto = ['tes',];
