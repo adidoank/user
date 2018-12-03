@@ -17,7 +17,7 @@ $data= [
 'Andriean','Andriesun','Acik Mall','Salim Aas',
 'Bela Aas','Rujana Bakong','Farid Mohamed','Dewi Aas',
 'Dila Aas','Bili Aas','Flybird Yuan','Teri Aas',
-'Den Aas','Amin Aas','Wulan Aas','Hasan Aas','Yusri','ajit vepal','Agus Riyadi',
+'Den Aas','Amin Aas','Wulan Aas','Hasan Aas','Yusri','Fachrul Ejp','ajit vepal','Agus Riyadi',
 '　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　　　　　　 　　　　　 　　　　 　　　　　　　　　　 　　　　　　　 　　　　 　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　 　　　 ꧾꧾ',
 'Agus Riyadi Riyadi','Richard Steven Try',
         ];
