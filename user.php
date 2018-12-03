@@ -13,7 +13,8 @@ $data= [
 '$ FARHAN Z $','Muhammad Nandars','Muh Nandar',
 'Dep Bell','Adis Ahmat','Wali Roy','Roy Purba',
 'Acik Mall','Salim Aas','Bela Aas','Andrie',
-'Andriean','Andriesun',
+'Andriean','Andriesun','Acik Mall','Salim Aas',
+'Bela Aas',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
