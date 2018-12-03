@@ -18,6 +18,7 @@ $data= [
 'Dila Aas','Bili Aas','Flybird Yuan','Teri Aas',
 'Den Aas','Amin Aas','Wulan Aas','Hasan Aas','Yusri','ajit vepal','Agus Riyadi',
 '　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　　　　　　 　　　　　 　　　　 　　　　　　　　　　 　　　　　　　 　　　　 　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　 　　　 ꧾꧾ',
+'Agus Riyadi Riyadi',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
