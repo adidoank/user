@@ -9,7 +9,7 @@ $data= [
 'Lucy Thien','Adi Trader Demo','Mif Takhul','Feyy','I Dewa Gede Superatikadewa','Wendik','Qohwah',
 'Asmuri Aas','Goril Aas','Wili Aas','Gery Aas',
 'Redi Aas','Fenjul','Sabar Ajah','Dewi Tati','Fenjul',
-'Hasan',
+'Hasan','Yuli Iyul','Yun Yuyun','Davis','Novita',
 
         ];
 $ydnews = ['tes',];
