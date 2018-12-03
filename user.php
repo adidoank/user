@@ -10,7 +10,7 @@ $data= [
 'Asmuri Aas','Goril Aas','Wili Aas','Gery Aas',
 'Redi Aas','Fenjul','Sabar Ajah','Dewi Tati','Fenjul',
 'Hasan','Yuli Iyul','Yun Yuyun','Davis','Novita',
-'$ FARHAN Z $',
+'$ FARHAN Z $','Muhammad Nandars',
 
         ];
 $ydnews = ['tes',];
