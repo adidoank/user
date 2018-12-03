@@ -11,7 +11,9 @@ $data= [
 'Redi Aas','Fenjul','Sabar Ajah','Dewi Tati','Fenjul',
 'Hasan','Yuli Iyul','Yun Yuyun','Davis','Novita',
 '$ FARHAN Z $','Muhammad Nandars','Muh Nandar',
-
+'Dep Bell','Adis Ahmat','Wali Roy','Roy Purba',
+'Acik Mall','Salim Aas','Bela Aas','Andrie',
+'Andriean','Andriesun',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
