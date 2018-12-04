@@ -2,7 +2,7 @@
 $msgtoto = "[!] enjoy your life";
 $msgyd = "[!] enjoy your life";
 $msgwe = "[!] enjoy your life";
-$we = ["D35418",
+$we = ["U84795",
   ];
 $data= [
 //'adi bordir',
