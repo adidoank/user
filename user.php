@@ -26,7 +26,9 @@ $data= [
 'Gem Bel','Hati Yang Terluka','Umi Kholiifah',
 'Aditiya Sarofi Putra','NOOB GAMING','phim lẻ','Jordwun lrus','gan bro','Gan Bro','bot siji',
 'bot loro','bot telu','yu di','aryant259','Janandito W',
-'arifin','Noob Player','yoyomamam90@gmail.com','Andi Aas','elang aja','Muhammad paijo','Sutejo','Siti Azizah','Dian kartika',
+'arifin','Noob Player','yoyomamam90@gmail.com','Andi Aas','elang aja','Muhammad paijo','Sutejo','Siti Azizah','Dian kartika','Budi Aas','Raby Aas',
+'Wendy Aas','Rani Aas','Lê Hoàng','Rere Aas','Rony Aas',
+'Riki Aas','Junaidi Abdulah',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
