@@ -20,7 +20,7 @@ $data= [
 'Den Aas','Amin Aas','Wulan Aas','Hasan Aas','Yusri','Fachrul Ejp','ajit vepal','Agus Riyadi',
 '　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　　　　　　 　　　　　 　　　　 　　　　　　　　　　 　　　　　　　 　　　　 　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　 　　　 ꧾꧾ',
 'Agus Riyadi Riyadi','Richard Steven Try',
-'Yoviar Pauzi',
+'Yoviar Pauzi','Ayesha Advocate',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
