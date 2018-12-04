@@ -21,6 +21,8 @@ $data= [
 '　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　　　　　　 　　　　　 　　　　 　　　　　　　　　　 　　　　　　　 　　　　 　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　 　　　 ꧾꧾ',
 'Agus Riyadi Riyadi','Richard Steven Try',
 'Yoviar Pauzi','Ayesha Advocate',
+//vipm
+'Haris Denzlot','Raihan Chainago','Bejo Jo206','Bejo Rusak','Jordan Donathan','Bejo Mace','Jojo Vake','Deaso Bejo','Lungkik Cuiru','Riyan Kartika','Lusto rusak','Jorsn Rusak','Jordwun Irus','Curit Astjx','Hais suis',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
