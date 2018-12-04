@@ -23,7 +23,7 @@ $data= [
 'Yoviar Pauzi','Ayesha Advocate',
 //vipm
 'Haris Denzlot','Raihan Chainago','Bejo Jo206','Bejo Rusak','Jordan Donathan','Bejo Mace','Jojo Vake','Deaso Bejo','Lungkik Cuiru','Riyan Kartika','Lusto rusak','Jorsn Rusak','Jordwun Irus','Curit Astjx','Hais suis',
-'Gem Bel','Hati Yang Tersakiti','Umi Kholiifah',
+'Gem Bel','Hati Yang Terluka','Umi Kholiifah',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
