@@ -27,7 +27,7 @@ $data= [
 'Aditiya Sarofi Putra','NOOB GAMING','phim lẻ',
 '　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　　　　　　 　　　　　 　　　　 　　　　　　　　　　 　　　　　　　 　　　　 　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　 　　　 ꧾꧾ','Jordwun lrus','gan bro','Gan Bro','bot siji',
 'bot loro','bot telu','yu di','aryant259','Janandito W',
-
+'arifin',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
