@@ -26,7 +26,8 @@ $data= [
 'Gem Bel','Hati Yang Terluka','Umi Kholiifah',
 'Aditiya Sarofi Putra','NOOB GAMING','phim lẻ',
 '　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　　　　　　　 　　　　　 　　　　 　　　　　　　　　　 　　　　　　　 　　　　 　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　 　　　 ꧾꧾ','Jordwun lrus','gan bro','Gan Bro','bot siji',
-'bot loro','bot telu','yu di','aryant259',
+'bot loro','bot telu','yu di','aryant259','Janandito W',
+
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
