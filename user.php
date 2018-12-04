@@ -20,7 +20,7 @@ $data= [
 'Agus Riyadi Riyadi','Richard Steven Try',
 'Yoviar Pauzi','Ayesha Advocate',
 //vipm
-'Haris Denzlot','Raihan Chainago','Bejo Jo206','Bejo Rusak','Jordan Donathan','Bejo Mace','Jojo Vake','Deaso Bejo','Lungkik Cuiru','Riyan Kartika','Lusto Rusak','Jorsn Rusak','Jordwun jerdin','Curit Astjx','Hais Suis',
+'HARIS Denzlot','Raihan Chainago','Bejo Jo206','Bejo Rusak','Jordan Donathan','Bejo Mace','Jojo Vake','Deaso Bejo','Lungkik Cuiru','Riyan Kartika','Lusto Rusak','Jorsn Rusak','Jordwun jerdin','Curit Astjx','Hais Suis',
 'Gem Bel','Hati Yang Terluka','Umi Kholiifah',
 'Aditiya Sarofi Putra','NOOB GAMING','phim lẻ','Jordwun lrus','gan bro','Gan Bro','bot siji',
 'bot loro','bot telu','yu di','aryant259','Janandito W',
