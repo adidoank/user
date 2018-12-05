@@ -28,7 +28,7 @@ $data= [
 'bot loro','bot telu','yu di','aryant259','Janandito W',
 'arifin','Noob Player','yoyomamam90@gmail.com','Andi Aas','elang aja','Muhammad Paijo','Sutejo','Siti Azizah','Dian Kartika','Budi Aas','Raby Aas',
 'Wendy Aas','Rani Aas','Lê Hoàng','Rere Aas','Rony Aas',
-'Riki Aas','Junaidi Abdulah','Tidak Dikenal','Agung Nugraha','SobLok DanSka VoltHz','Afil X-friends Discography Hitam-Putih','Aan TheRG','Davin Hardit','robert simangunsong','Restu OnGame','santa lidwyna tarigan',
+'Riki Aas','Junaidi Abdulah','Tidak Dikenal','Agung Nugraha','SobLok DanSka VoltHz','Afil X-friends Discography Hitam-Putih','Aan TheRG','Davin Hardit','robert simangunsong','Restu OnGame','santa lidwyna tarigan','NEWBIE BERKELAS',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
