@@ -29,7 +29,7 @@ $data= [
 'arifin','Noob Player','yoyomamam90@gmail.com','Andi Aas','elang aja','Muhammad Paijo','Sutejo','Siti Azizah','Dian Kartika','Budi Aas','Raby Aas',
 'Wendy Aas','Rani Aas','Lê Hoàng','Rere Aas','Rony Aas',
 'Riki Aas','Junaidi Abdulah','Tidak Dikenal','Agung Nugraha','SobLok DanSka VoltHz','Afil X-friends Discography Hitam-Putih','Aan TheRG','Davin Hardit','robert simangunsong','Restu OnGame','santa lidwyna tarigan','NEWBIE BERKELAS','Bambang Setiawan',
-'Mr. Benk','Yafia Ah','Yafiah Tri Ramdani wijaya','nayz stone','Myvi Com','Seda Coeg','Wayan','Kiki Albani','Kresna Rizkie','itel meh','gretonger Tool','bball','Remsha Rajpout','Khalifi Nugraha','Hasan Ahmmad YK','Ahmad_alfian','bondex pay',
+'Mr. Benk','Yafia Ah','Yafiah Tri Ramdani wijaya','nayz stone','Myvi Com','Seda Coeg','Wayan','Kiki Albani','Kresna Rizkie','itel meh','gretonger Tool','bball','Remsha Rajpout','Khalifi Nugraha','Hasan Ahmmad YK','Ahmad_alfian','bondex pay','Mona Xperia',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
