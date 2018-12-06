@@ -1,4 +1,8 @@
 <?php
+echo $red."[!] warning !!!".$t;
+echo $kuning."[-] ini adalah program ilegal".$t;
+echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$t;
+
 $msgtoto = "[!] enjoy your life";
 $msgyd = "[!] enjoy your life";
 $msgwe = "[!] enjoy your life";
