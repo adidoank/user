@@ -36,7 +36,7 @@ $data= [
 'Mr. Benk','Yafia Ah','Yafiah Tri Ramdani wijaya',
 'nayz stone','Myvi Com','Seda Coeg','Wayan','Kiki Albani','Kresna Rizkie','itel meh','gretonger Tool','bball','Remsha Rajpout','Khalifi Nugr','Hasan Ahmmad YK','Ahmad_alfian','bondex pay','Mona Xperia',
 'BangGenzzot Gaming','Addinansah Azmil Hidayat','Elza Mila','astrajingga18','Astrajingga','Chiko Andrea',
-'Thoriq','Agus Saepuloh','Muhammad Feb',
+'Thoriq','Agus Saepuloh','Muhammad Feb','SWITCHCASE CHANNEL','djindonesia34@gmail.com','Hole Jewelry','Fina',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
