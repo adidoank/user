@@ -37,6 +37,8 @@ $data= [
 'nayz stone','Myvi Com','Seda Coeg','Wayan','Kiki Albani','Kresna Rizkie','itel meh','gretonger Tool','bball','Remsha Rajpout','Khalifi Nugr','Hasan Ahmmad YK','Ahmad_alfian','bondex pay','Mona Xperia',
 'BangGenzzot Gaming','Addinansah Azmil Hidayat','Elza Mila','astrajingga18','Astrajingga','Chiko Andrea',
 'Thoriq','Agus Saepuloh','Muhammad Feb','SWITCHCASE CHANNEL','djindonesia34@gmail.com','Hole Jewelry','Fina','Pooja Lalwani','Mobi legend','Agung Prakoso','manol watu','Nandi Wardana','Golek Duwit','kintel gedi','Haris Setyawan',
+'switchcase advertising','mody prasetya','Hasan Bgp','Reno Aas','Rexy Aas','Boby Aas','Reno Aas','Reva Aas','Riky Aas','Reff Aas','Rix Aas','Rahmy Aas','Bay Aas','Caca Aas','Yuki Aas','Rini Aas','Gege Aas','Adi Aas','Wewe Aas','Golek Duwit','Dapi Aas','Sapi Aas','Rehu Aas','Rehi Aas','Witi Aas','Akbar Cara','Akbar Oite','Akbar Akb','Akbar Albert','Loge Cara','Alis Cara','Rema Cara','Forta Cara','Fewe Cara',
+'Wani Aas','Rara Aas','Fewe Cara',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
