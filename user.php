@@ -3,7 +3,7 @@ echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 
-$msgtoto = "[!] thankz to 397 user active";
+$msgtoto = "[!] thankz to 640 user active";
 $msgyd = "[!] enjoy your life";
 $msgwe = "[!] update versi 1.3 tersedia";
 
