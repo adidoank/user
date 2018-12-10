@@ -39,7 +39,7 @@ $data= [
 'Thoriq','Agus Saepuloh','Muhammad Feb','SWITCHCASE CHANNEL','djindonesia34@gmail.com','Hole Jewelry','Fina','Pooja Lalwani','Mobi legend','Agung Prakoso','manol watu','Nandi Wardana','Golek Duwit','kintel gedi','Haris Setyawan',
 'switchcase advertising','mody prasetya','Hasan Bgp','Reno Aas','Rexy Aas','Boby Aas','Reno Aas','Reva Aas','Riky Aas','Reff Aas','Rix Aas','Rahmy Aas','Bay Aas','Caca Aas','Yuki Aas','Rini Aas','Gege Aas','Adi Aas','Wewe Aas','Golek Duwit','Dapi Aas','Sapi Aas','Rehu Aas','Rehi Aas','Witi Aas','Akbar Cara','Akbar Oite','Akbar Akb','Akbar Albert','Loge Cara','Alis Cara','Rema Cara','Forta Cara','Fewe Cara',
 'Wani Aas','Rara Aas','Fewe Cara','arif','Rizal Rapz','Woodpecker Woody','Febryansyah','Babang Ary','Mila Milenia','Ary Ary','Jon Son','Tukafi Acucre',
-'Josie','Davita Brietta','Charisse Cariotta','Bilkis','Sundari','Reksi Aas','Adex Aas','Iyul Aas','Rexy Aas','Tery Aas','Ulex Aas','Sule Aas','Rex Aas','Fiikhozii JR Fiikhozii JR','Danu Antwo','ibnuramadhan','Ahmad Fathoni','Jeff Buizon','ayr official','Febryan','Febryan','Ika Sinta','Ujenk The Restovers','NoobSec ID',
+'Josie','Davita Brietta','Charisse Cariotta','Bilkis','Sundari','Reksi Aas','Adex Aas','Iyul Aas','Rexy Aas','Tery Aas','Ulex Aas','Sule Aas','Rex Aas','Fiikhozii JR Fiikhozii JR','Danu Antwo','ibnuramadhan','Ahmad Fathoni','Jeff Buizon','ayr official','Febryan','Febryan','Ika Sinta','Ujenk The Restovers','NoobSec ID','Berita Terkini','Paypal Hunter','Curhat Mas','kobe sacac','Yakub Setiawan','Zal Case',
 
         
         ];
