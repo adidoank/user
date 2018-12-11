@@ -42,7 +42,7 @@ $data= [
 'Josie','Davita Brietta','Charisse Cariotta','Bilkis','Sundari','Reksi Aas','Adex Aas','Iyul Aas','Rexy Aas','Tery Aas','Ulex Aas','Sule Aas','Rex Aas','Fiikhozii JR Fiikhozii JR','Danu Antwo','ibnuramadhan','Ahmad Fathoni','Jeff Buizon','ayr official','Febryan','Febryan','Ika Sinta','Ujenk The Restovers','NoobSec ID','Berita Terkini','Paypal Hunter','Curhat Mas','kobe sacac','Yakub Setiawan','Zal Case',
  'Sofhia Harlan','Januar Krist','Benac','akmal miftah','Ainur Rofik','Gatanzi','Makarti','rafif dwi','Muhammad Dim','Aris Ryan','Karin Dyah','Haris Reno','Riri Melati','Lee Huy','Andi Setia','Afifah Dwi','Yuni Sara','Lisa Gea','Rangga Saputra','Sutrisno Abdi','Putra Maulana','SKIPPER FAME','Erik Irawan','ZiBn','Marcel Roni','Sherly Cantika','Suci Lestari','Novri Haris','Rico Pangabean','shandhe kalla','ragad jaya',
 'inpinix inpo','RONY Taylor','Farel Pratama','Azzahra Diana','Calista Arsy','Revano Aditya','Monic Ika','Gibran Alvin','Ilyasa Syauqy Hummam','Lukman Hakim','ilyasa syauqy','adham.farros22@gmail.com','Mustofa Aji','layla.axis125@gmail.com','zilonggg124@gmail.com','fanny.victory22@gmail.com','gusion.dagger121@gmail.com','lance.hitz120@gmail.com','lolita.axis23@gmail.com','balmon.botak19@gmail.com','lesley.lele99@gmail.com','lapulupa22@gmail.com',
-        
+'triệu linh',   
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
