@@ -3,7 +3,7 @@ echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 
-$msgtoto = "[!] jangan lupa mampir"."\n"."[!] ke chanel adi bordir guys"."\n"."[!] happy nuyul :D";
+$msgtoto = "[!] subscribe channel sungging gtu 😆"."\n"."[!] atau chanel adi bordir guys"."\n"."[!] dijamin ori ";
 $msgyd = "[!] enjoy your life";
 $msgwe = "[!] info withdraw work with delay 10 sec";
 $msgveeu = "[!] enjoy your life";
