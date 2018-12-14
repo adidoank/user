@@ -3,10 +3,11 @@ echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 
-$msgtoto = "[!] info toto news berganti menjadi TTNews".$t."[-] gunakan akun toto news untuk login di TTNews".$t."[-] skrip tetap work dengan app TTNews".$t."[-] cara tranfer akun login di TTNews pilih old user masukan kode invite akun toto news tranfer akun selesai";
+$msgtoto = $red."[!] Sorry I'm on server maintenance";
 $msgyd = "[!] enjoy your life";
-$msgwe = "[!] info withdraw work with delay 10 sec";
+$msgwe = $red."[!] Sorry I'm on server maintenance";
 $msgveeu = "[!] enjoy your life";
+/*
 $data= [
 'adi bordir','Adi Digitizer','Dzi','semua andinya','sungging','asep kanceuh','putripesek','nubie305','ateng','Bal Lack','Maulana Setiawan','suga zora','Thauvan GT','yassar sha\'id shafi\'i','Moezza 01','စုံလင်သော အလ','hasan coc','Pro Master','hasan abut','gan bro','Yudi Pratmaja','Gembel Elite','imel telu','SkaLova','Badrun','Nhóc Con Sr','Delwin Yoanes',
 'Beuti Lavea','MasterCraft Vn','Ari Sandi','I love Cartoon','Kaboom','Robert Simangunsong','Mohamad Husn',
@@ -48,3 +49,4 @@ $data= [
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
+*/
