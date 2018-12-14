@@ -2,7 +2,7 @@
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
-echo $red."[!] Sorry I'm on server maintenance".$t;
+
 $msgtoto = $red."[!] Sorry I'm on server maintenance";
 $msgyd = "[!] enjoy your life";
 $msgwe = $red."[!] Sorry I'm on server maintenance";
