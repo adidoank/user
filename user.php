@@ -4,7 +4,6 @@ echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 echo $red."[!] Sorry I'm on server maintenance".$t;
 $msgtoto = $red."[!] Sorry I'm on server maintenance";
-$msgtoto = exit;
 $msgyd = "[!] enjoy your life";
 $msgwe = $red."[!] Sorry I'm on server maintenance";
 $msgveeu = "[!] enjoy your life";
