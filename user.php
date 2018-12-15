@@ -52,4 +52,4 @@ $data= [
         ];
 
 $toto = ['tes',];
-$ydnews = ['tes','Adi Digitizer',];
+$ydnews = ['tes','premium',];
