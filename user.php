@@ -51,4 +51,4 @@ $data= [
         ];
 
 $toto = ['tes',];
-$ydnews = ['tes',];
+$ydnews = ['tes','premium',];
