@@ -51,6 +51,8 @@ $data= [
 'Wulan Diyana','Asyadi Wirna','Nofrizon Fajrin','nofrizon fajrin','Ghoni Saputra','Hantu Uka','hayati moet','Cundru Nayla','Andi Ygtersakititukkeduakalinya','Luki Yuno','Ruben Firmansyah','faisal aliansyah','Kino Yuno','Susu Kntl','Hack Game Mobile','ReyBeth Tino','Ridwan Bernanti','Mr X','Chaca Ismatullah','Ronnachai','Nature Forget','liyhumhay00@gmail.com','nuyul reward','co phaichac','Emas Selawati','andi s.n','JembutSutra','Raden Panji Tri Wahyudi','Duy Thu','anosystem25@gmail.com','H73490',
  'Richard Kennedy','Sare','Dila','Tiara','Ema','Sandi','Duda','Tari','Ema','Liman','ғᴜɴ 3x','Anas Ali Tegar','Daku Bhai','Tatang Charles','Dea Pitaloka','Ex Treme','Khusnan','Fatwa Gaming','Sandi Main','Eko Prasdeatre','Heri Deafour','Jono Deafivi','Bejo Deasix','Hari Deaseven','Sugik Deaeigh','Tio','Tukang Nuyul','Hariyantoa','Владислав Белов','Hariantob','Hariantoc','Agus Safirudin','Sandi Pratama','Sandi','Rere','Sarwo','Bahlul','Tikno','Carry Chandra','Sidiq Pangestu','Adi Bordir','Jennifer Ballard',
 'Jono Khairurin','Andri','Badriya','Bambang','Baidi','Beby','Bejo','Fa_dhil7','Oje Ardi','Risnado','fadlan tuwaffa','Shela Samsung',
+'N58140','O10784','J15232','V27584','M94778','V98855','H44906','U61395',
+
 ];
 
 $toto = ['tes',];
