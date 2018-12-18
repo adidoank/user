@@ -50,7 +50,7 @@ $data= [
 'Gan Bro','Gan Bro','Gan Bro','Gan Bro','Gan Bro','Gan Bro','Azy Ciel','Pelangi','Hasan','Dewi','Dojer','Tika','Ema','Liman','Gerry Gerry','Mukhalim Khalim','Lukman Nulhakim','Azka Abdul','Anu Kahiji','Anu Kadua','Anu Katilu','Anu Kaopat','Anu Kalima','Anu Kagenep','Anu Katujuh','Anu Kasalapan','Anu Kadalapan','Lutpi Abdul','Sipa Nurul','Lukman Bungbulang','Cimeng blues','Ka Sapuluh','prima putra','Amir Rais','Bunga Indah','Charly Daniel','Dina Khairunnisa','Evan Gani','Uning Garong','Ryan Akbar',
 'Wulan Diyana','Asyadi Wirna','Nofrizon Fajrin','nofrizon fajrin','Ghoni Saputra','Hantu Uka','hayati moet','Cundru Nayla','Andi Ygtersakititukkeduakalinya','Luki Yuno','Ruben Firmansyah','faisal aliansyah','Kino Yuno','Susu Kntl','Hack Game Mobile','ReyBeth Tino','Ridwan Bernanti','Mr X','Chaca Ismatullah','Ronnachai','Nature Forget','liyhumhay00@gmail.com','nuyul reward','co phaichac','Emas Selawati','andi s.n','JembutSutra','Raden Panji Tri Wahyudi','Duy Thu','anosystem25@gmail.com','H73490',
  'Richard Kennedy','Sare','Dila','Tiara','Ema','Sandi','Duda','Tari','Ema','Liman','ғᴜɴ 3x','Anas Ali Tegar','Daku Bhai','Tatang Charles','Dea Pitaloka','Ex Treme','Khusnan','Fatwa Gaming','Sandi Main','Eko Prasdeatre','Heri Deafour','Jono Deafivi','Bejo Deasix','Hari Deaseven','Sugik Deaeigh','Tio','Tukang Nuyul','Hariyantoa','Владислав Белов','Hariantob','Hariantoc','Agus Safirudin','Sandi Pratama','Sandi','Rere','Sarwo','Bahlul','Tikno','Carry Chandra','Sidiq Pangestu','Adi Bordir','Jennifer Ballard',
-'Jono Khairurin','Andri','Badriya','Bambang','Baidi','Beby','Bejo',
+'Jono Khairurin','Andri','Badriya','Bambang','Baidi','Beby','Bejo','Fa_dhil7',
 ];
 
 $toto = ['tes',];
