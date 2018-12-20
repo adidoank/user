@@ -55,7 +55,7 @@ $data= [
  'N58140','O10784','J15232','V27584','M94778','V98855','H44906','U61395',
  */
  'Donny Suhendra','Wildan Zaki','Kaum Fals','Sule Sutisna',"Mayar Hutang",'Terry Soja','Rani Floren','K4note Vz','Zevorz Qone','Teh Ci','ARI PRADANA','Adit','Andika Boy','Mad Dog','Suya Siip','Fenjul','Durah','Buana','Ema','Sarry','Buana','Mahdi','Sarry','Gethux\'k Rassa Apha\'sadja','SunDul U','Luthfi Ahmad','Reyzall','Reyzall','Reyzall','Isra Novita','didik cahyono','didik cahyono','didik cahyono','didik cahyono','didik cahyono','ayra khoirunnisa','Nandang Triswanto','LUTHFI ZXC','Adelia Aurelia','semak233',
-'Irawati','norie espino','Reyzall','Reyzall','Reyzall','Reyzall','Reyzall','Reyzall','Putra','Charis','Muhammad Fauzan','Gvz Dua','Kanda Kuan','rama ccc','Fachrul Rozzy','Yafi\'ah Tri Ramdani Wijaya','Febriyan Muhammad','Brian','Ciplay Nub','Guancok','Guabruel','Silvia','Muhammad Rafli','creator pro','Maman Hilman',
+'Irawati','norie espino','Reyzall','Reyzall','Reyzall','Reyzall','Reyzall','Reyzall','Putra','Charis','Muhammad Fauzan','Gvz Dua','Kanda Kuan','rama ccc','Fachrul Rozzy','Yafi\'ah Tri Ramdani Wijaya','Febriyan Muhammad','Brian','Ciplay Nub','Guancok','Guabruel','Silvia','Muhammad Rafli','creator pro','Maman Hilman','Rara Puspita II',' 　 ꧾꧾ',
 ];
 
 $toto = ['tes',];
