@@ -6,6 +6,9 @@ $ads= $putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih
 $msgtoto = "[!] Subscribe Youtube adi bordir dan Sungging".$t.$red."[°] demi keamanan hentikan aktifitas bot sekarang !!!!".$t.$kuning."[•] ctrl + c";
 $msgyd = "[!] bang deni contlo tukang recode".$t."[•] msg by adidoank";
 $yd_stat = true;
+$vip1= false;
+$weblock =[""];
+$we_stat = true;
 $msgwe = "[!] enjoy your life";
 $msgveeu = "[!] enjoy your life";
 
