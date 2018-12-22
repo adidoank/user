@@ -8,6 +8,7 @@ $msgyd = "[!] bang deni contlo tukang recode".$t."[•] msg by adidoank";
 $yd_stat = true;
 $vip1= false;
 $weblock =[""];
+$ydblock = [""];
 $we_stat = true;
 $msgwe = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'L41023';
 $msgveeu = "[!] enjoy your life";
