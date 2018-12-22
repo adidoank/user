@@ -4,7 +4,7 @@ echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 $ads= $putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih."| atau |".$ijo." sungging [-]";
 $msgtoto = "[!] Subscribe Youtube adi bordir dan Sungging".$t.$red."[°] demi keamanan hentikan aktifitas bot sekarang !!!!".$t.$kuning."[•] ctrl + c";
-$msgyd = "[!] bang deni contlo tukang recode".$t."[•] msg by adidoank";
+$msgyd = "[!] please update ";
 $yd_stat = true;
 $vip1= false;
 $weblock =[""];
