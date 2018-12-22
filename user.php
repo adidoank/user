@@ -9,7 +9,7 @@ $yd_stat = true;
 $vip1= false;
 $weblock =[""];
 $we_stat = true;
-$msgwe = "[!] enjoy your life";
+$msgwe = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'L41023';
 $msgveeu = "[!] enjoy your life";
 
 $data= [
