@@ -11,7 +11,7 @@ $vip1= false;
 $weblock =[""];
 $ydblock = [""];
 $we_stat = true;
-$msgwe = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'L41023';
+$msgwe = "[!] enjoy your life";
 $msgveeu = "[!] enjoy your life";
 
 $data= [
