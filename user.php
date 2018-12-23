@@ -68,7 +68,7 @@ $data= [
 'Ciplay07 Pitu','Ciplay08 08','Cply 10','UtonMU','Anime OP','أنجس موسلين','Muhammad Farhan','Yt GM review','Dhiloet 1603','GROUNDS GAMING','Jeff Buizon','M Koi','  ꧾꧾ','Fazar Dany','Zonkid',
 'Pok Ame Ame','Didik Cahyono','Akazaki Kun','Afiq','John Strazza','Mas Yusuf','Mas Aryok','Sifak Slegean','Afil Slegean','cdroid3','Jupri Semprol','Mas Zilong','Mas Johnson','Mas Mansur','SoniaaDwiyuliaa',
 'Iyhah Romay','Ar Ya','Malam Crot','Sky Nouses','hasan','Anime OP','أنجس موسلين','Muhammad Farhan','Yt GM review','Dhiloet 1603','Tahu Gejrot','GROUNDS GAMING','M Koi','  ꧾꧾ','miikann19@gmail.com',
-'Fazar Dany','Zonkid','Puput','Didik Cahyono','Akazaki Kun','Afiq',
+'Fazar Dany','Zonkid','Puput','Didik Cahyono','Akazaki Kun','Afiq','Mbk Gisel','ronalddolss@gmail.com','Rio Syaputra','Mas Ipul',
 
 ];
 
