@@ -68,7 +68,8 @@ $data= [
 'Ciplay07 Pitu','Ciplay08 08','Cply 10','UtonMU','Anime OP','أنجس موسلين','Muhammad Farhan','Yt GM review','Dhiloet 1603','GROUNDS GAMING','Jeff Buizon','M Koi','  ꧾꧾ','Fazar Dany','Zonkid',
 'Pok Ame Ame','Didik Cahyono','Akazaki Kun','Afiq','John Strazza','Mas Yusuf','Mas Aryok','Sifak Slegean','Afil Slegean','cdroid3','Jupri Semprol','Mas Zilong','Mas Johnson','Mas Mansur','SoniaaDwiyuliaa',
 'Iyhah Romay','Ar Ya','Malam Crot','Sky Nouses','hasan','Anime OP','أنجس موسلين','Muhammad Farhan','Yt GM review','Dhiloet 1603','Tahu Gejrot','GROUNDS GAMING','M Koi','  ꧾꧾ','miikann19@gmail.com',
-'Fazar Dany','Zonkid','Puput','Didik Cahyono','Akazaki Kun','Afiq','Mbk Gisel','ronalddolss@gmail.com','Rio Syaputra','Mas Ipul','Mas Yoki','Mas Karem','Puput','ilham okta pradinata','Karden Kuri','Mas Antoni','Mas Butok','Mas Bagio','Mas Cungkring','Mas Jaeni','ツAverrose','Bang Sat','Wildan Pramana',
+'Fazar Dany','Zonkid','Puput','Didik Cahyono','Akazaki Kun','Afiq','Mbk Gisel','ronalddolss@gmail.com','Rio Syaputra','Mas Ipul','Mas Yoki','Mas Karem','Puput','ilham okta pradinata','Karden Kuri','Mas Antoni','Mas Butok','Mas Bagio','Mas Cungkring','Mas Jaeni','ツAverrose','Bang Sat','Wildan Pramana','ZONK ID','Manamanaman Manamanamamama','Diamond Black','Harris Arifin','Questions','Hendrayusril','Sakata','Adi Purna','Mas Naryo','Modalhp Dapat Uang',
+'Aldo Adniar','Mas Dafa','Mas Lut','Mas Husein','Mas Kholek',
 
 ];
 
