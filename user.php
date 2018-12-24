@@ -74,7 +74,6 @@ $data= [
 'Ai','Hafida Mutia','Andree','Lina','Adib Ardianto','Sabrina Julianna','Jeck Monday','Kimsbo','Levin Tauris','sempako pak','Jennifer Currie','Fahleri','Chaniago','Siti Nurhafifah','Dini Afzar','Joy Rafel','Rafael','Dafi','Herry','Sari','Baidah','Carly','Surti','Tarjo','Ayu','Dewi','Cicha','Ryan',
 'Putra','Laura','Arya Dipake','ivan rizky','AQifatul Fatim','Mas Jimin','Neng Ayu','bastards in silence silence','Neng Dita','Neng Gisel','Neng Fafa','anak malam','09 Nam','Aminah Zainuddin',
 'Whing','bemzmancung0@gmail.com',
-
 ];
 
 $toto = ['tes',];
