@@ -70,7 +70,7 @@ $data= [
 'Iyhah Romay','Ar Ya','Malam Crot','Sky Nouses','hasan','Anime OP','أنجس موسلين','Muhammad Farhan','Yt GM review','Dhiloet 1603','Tahu Gejrot','GROUNDS GAMING','M Koi','  ꧾꧾ','miikann19@gmail.com',
 'Fazar Dany','Zonkid','Puput','Didik Cahyono','Akazaki Kun','Afiq','Mbk Gisel','ronalddolss@gmail.com','Rio Syaputra','Mas Ipul','Mas Yoki','Mas Karem','Puput','ilham okta pradinata','Karden Kuri','Mas Antoni','Mas Butok','Mas Bagio','Mas Cungkring','Mas Jaeni','ツAverrose','Bang Sat','Wildan Pramana','ZONK ID','Manamanaman Manamanamamama','Diamond Black','Harris Arifin','Questions','Hendrayusril','Sakata','Adi Purna','Mas Naryo','Modalhp Dapat Uang',
 'Aldo Adniar','Mas Dafa','Mas Lut','Mas Husein','Mas Kholek','han raihan','lorius• нαηz','raihan choirul insan','sempako pak','Anzany Demo','CumaMusik YT','Mitra Aryo','Muzakir Glp','Mifta Stretford\'End','Bobbie Ali',
-'Haykal Herna',
+'Haykal Herna','ifan firdiyan','Rofi Rofik',
 
 ];
 
