@@ -72,7 +72,7 @@ $data= [
 'Aldo Adniar','Mas Dafa','Mas Lut','Mas Husein','Mas Kholek','han raihan','lorius• нαηz','raihan choirul insan','sempako pak','Anzany Demo','CumaMusik YT','Mitra Aryo','Muzakir Glp','Mifta Stretford\'End','Bobbie Ali',
 'Haykal Herna','ifan firdiyan','Rofi Rofik','Anyar Meren','Channel Tai','Siti Ruroh','Andi Dista','Rahmad Tullah','Tania Ros','Egya Safwy','Ferdian','Adinda','ghoni3 saputra3','Diki Clor','RaffiNi Assasin',
 'Ai','Hafida Mutia','Andree','Lina','Adib Ardianto','Sabrina Julianna','Jeck Monday','Kimsbo','Levin Tauris','sempako pak','Jennifer Currie','Fahleri','Chaniago','Siti Nurhafifah','Dini Afzar','Joy Rafel','Rafael','Dafi','Herry','Sari','Baidah','Carly','Surti','Tarjo','Ayu','Dewi','Cicha','Ryan',
-'Putra','Laura','Arya Dipake','ivan rizky',
+'Putra','Laura','Arya Dipake','ivan rizky','AQifatul Fatim',
 
 ];
 
