@@ -74,7 +74,7 @@ $data= [
 'Ai','Hafida Mutia','Andree','Lina','Adib Ardianto','Sabrina Julianna','Jeck Monday','Kimsbo','Levin Tauris','sempako pak','Jennifer Currie','Fahleri','Chaniago','Siti Nurhafifah','Dini Afzar','Joy Rafel','Rafael','Dafi','Herry','Sari','Baidah','Carly','Surti','Tarjo','Ayu','Dewi','Cicha','Ryan',
 'Putra','Laura','Arya Dipake','ivan rizky','AQifatul Fatim','Mas Jimin','Neng Ayu','bastards in silence silence','Neng Dita','Neng Gisel','Neng Fafa','anak malam','09 Nam','Aminah Zainuddin',
 'Whing','bemzmancung0@gmail.com','Mas Afgan','Mas Jembot','Mas Harjo','vias utami','Mas Waluyo','Mas Anjir','pink queen','Jamal Kurnia','kupak pak3','Ilderson Chacon','Al Hilmi',
-'Abdul M','alit huuh','dewab259@gmail.com','alit krisharjoko','kupak pak4','Hilmi Septian','Ladut Singht','Kawasaki Gto','Stance Nation','Moto Rolla','Tips and Tri','kupakpak5@gmail.com','Irfan Febrian','Andy Slengkak',
+'Abdul M','alit huuh','dewab259@gmail.com','alit krisharjoko','kupak pak4','Hilmi Septian','Ladut Singht','Kawasaki Gto','Stance Nation','Moto Rolla','Tips and Tri','kupakpak5@gmail.com','Irfan Febrian','Andy Slengkak','Mas Bayu','Mas Anga','Mas Jihan','Marvin Musa','Mas Dito','Mas Cici','kupak pak6','D2!! Air Drops !!','VL Channel',
 ];
 
 $toto = ['tes',];
