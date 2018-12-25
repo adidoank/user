@@ -5,8 +5,8 @@ echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'L41023';
 $ads= $putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih."| atau |".$ijo." sungging [-]";
 $msgtoto = "[!] Subscribe Youtube adi bordir dan Sungging".$t.$red."[°] demi keamanan hentikan aktifitas bot sekarang !!!!".$t.$kuning."[•] ctrl + c";
-$msgyd = "[!] enjoy your life";
-$yd_stat = true;
+$msgyd = "[!] ganguan pada server jangan panik ini tidak lama";
+$yd_stat = false;
 $vip1= false;
 $weblock =[""];
 $ydblock = [""];
@@ -77,7 +77,7 @@ $data= [
 'Abdul M','alit huuh','dewab259@gmail.com','alit krisharjoko','kupak pak4','Hilmi Septian','Ladut Singht','Kawasaki Gto','Stance Nation','Moto Rolla','Tips and Tri','kupakpak5@gmail.com','Irfan Febrian','Andy Slengkak','Mas Bayu','Mas Anga','Mas Jihan','Marvin Musa','Mas Dito','Mas Cici','kupak pak6','D2!! Air Drops !!','VL Channel','Mas Gading','Mas Likan','Dex Fina','Mas Parmen','WolfDust HD','Mas Bowo','kupakpak7@gmail.com','Agung Al Qorni','lazada Com','Lazada Com','Meike','Rizki Yuraa','Risna Ana','AL HiLmi','Al Hilmi','Amelia Sunjaya Tjhin','Ja Bok','Ajudan Ban','No Vel','Ahmad Habib Al Hilmi','Iksa','Korina','Iskandar','Kurniasi',
 'Georgio','Shantia','Faras','Saraswati','Ilham','Rafi farrel','Alfino Chees','AK 13','Ex Vide17','Wahyuantor13y Rizyi','Telek Nules',
 'Indra Prasetyo',
-'Wahyuanto16 Rizi','Wahyuanto17 Rizkie','Riz18 Wah','19riz Wahyu','Rexy maulana','Abim Joss','Sukinah','Ajudan Letoy','ajudansepeda100@gmail.com','ajudangila100@gmail.com',
+'Wahyuanto16 Rizi','Wahyuanto17 Rizkie','Riz18 Wah','19riz Wahyu','Rexy maulana','Abim Joss','Sukinah','Ajudan Letoy','ajudansepeda100@gmail.com','ajudangila100@gmail.com','Shivhari Mainali','Fitri Anda',
 ];
 
 $toto = ['tes',];
