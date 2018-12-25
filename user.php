@@ -77,7 +77,7 @@ $data= [
 'Abdul M','alit huuh','dewab259@gmail.com','alit krisharjoko','kupak pak4','Hilmi Septian','Ladut Singht','Kawasaki Gto','Stance Nation','Moto Rolla','Tips and Tri','kupakpak5@gmail.com','Irfan Febrian','Andy Slengkak','Mas Bayu','Mas Anga','Mas Jihan','Marvin Musa','Mas Dito','Mas Cici','kupak pak6','D2!! Air Drops !!','VL Channel','Mas Gading','Mas Likan','Dex Fina','Mas Parmen','WolfDust HD','Mas Bowo','kupakpak7@gmail.com','Agung Al Qorni','lazada Com','Lazada Com','Meike','Rizki Yuraa','Risna Ana','AL HiLmi','Al Hilmi','Amelia Sunjaya Tjhin','Ja Bok','Ajudan Ban','No Vel','Ahmad Habib Al Hilmi','Iksa','Korina','Iskandar','Kurniasi',
 'Georgio','Shantia','Faras','Saraswati','Ilham','Rafi farrel','Alfino Chees','AK 13','Ex Vide17','Wahyuantor13y Rizyi','Telek Nules',
 'Indra Prasetyo',
-'Wahyuanto16 Rizi','Wahyuanto17 Rizkie','Riz18 Wah','19riz Wahyu','Rexy maulana','Abim Joss','Sukinah','Ajudan Letoy','ajudansepeda100@gmail.com','ajudangila100@gmail.com','Shivhari Mainali','Fitri Anda','Shivhari Mainali','Fitri Anda','gamer\' z','Verlie','Eddye Law','Mawardi Jani',
+'Wahyuanto16 Rizi','Wahyuanto17 Rizkie','Riz18 Wah','19riz Wahyu','Rexy maulana','Abim Joss','Sukinah','Ajudan Letoy','ajudansepeda100@gmail.com','ajudangila100@gmail.com','Shivhari Mainali','Fitri Anda','Comot Tukul',
 ];
 
 $toto = ['tes',];
