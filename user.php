@@ -78,7 +78,7 @@ $data= [
 'Georgio','Shantia','Faras','Saraswati','Ilham','Rafi farrel','Alfino Chees','AK 13','Ex Vide17','Wahyuantor13y Rizyi','Telek Nules',
 'Indra Prasetyo',
 'Wahyuanto16 Rizi','Wahyuanto17 Rizkie','Riz18 Wah','19riz Wahyu','Rexy maulana','Abim Joss','Sukinah','Ajudan Letoy','ajudansepeda100@gmail.com','ajudangila100@gmail.com','Shivhari Mainali','Fitri Anda','Comot Tukul','Shivhari Mainali','Fitri Anda','gamer\' z','Verlie','Eddye Law','Mawardi Jani','Kunyuk Monyet','Muhammad Agung','Dus Tha','Geloy Madeso','Quriy Kiyam','Lesley Loveu','Viona Salome','ibuachyati001@gmail.com','Lumar Tree','Tolee','Ajoo','Parlin','Rizky Wahyuanto','Ambo Imma','Anto Suhan','Sobri Uy','Bang Andi','Bang Ateng','Bang Kanceuh','Bang Ari','Muhammad Andhika Prasetya','davidkriswanto8619@gmail.com','Räjå Rómãdhøñý','Creator Pro','Epe Fi Taa','Fandy Ahmad','Dima Kolikov','kollpolretro@gmail.com','Oscar Magdonalf','Indra Sopian','Rafael Wintoro','Thonz Mulyana','Tolee','Ajoo','Parlin','Rudi','Nisa','Istar','Rozali','Fatonah','Zayn Zyan','Cetar','Badai','ajudanmotor100@gmail.com',
-'Iklan Admob',
+'Iklan Admob','Erik Sudarto','Alex','Dicky Perdana','Rendy',
 ];
 
 $toto = ['tes',];
