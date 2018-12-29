@@ -10,8 +10,8 @@ $yd_stat = true;
 $vip1= false;
 $weblock =[""];
 $ydblock = [""];
-$we_stat = true;
-$msgwe = "[!] enjoy your life";
+$we_stat = false;
+$msgwe = "[!] oops sorry";
 $msgveeu = "[!] enjoy your life";
 
 $data= [
