@@ -11,7 +11,7 @@ $vip1= false;
 //$weblock =[""];
 $ydblock = [""];
 $we_stat = false;
-$msgwe = "[!] oops sorry";
+$msgwe = "[!] oops sorry".$t."[°] demi keamanan script saya lock sampai kondisi normal";
 $msgveeu = "[!] enjoy your life";
 
 $weblock= [
