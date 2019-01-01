@@ -83,7 +83,9 @@ $data= [
 'Lampu Merah','demonz666 last','dlast demonz','Imtitsal Hibatulloh','Agung Arya pratama','Chii Wen','LangBoncezz Boncezz','Mark Engelo','Adrian Tantowi','Fitra Bayu','Sukma Febriani','Ambo Imbi','Adrian Tantowi J','Free Vps Android','Phi Lix','Your Reg','Dova Giovano','agil kholis','XkazerukaX M','Maxcyb','asudoweh@gmail.com','sean segundo','Kirisaki Mirai','addekasur@gmail.com','Romario Show','Anggi','hoyolkop@gmail.com','Kanekusan Salibra','Rooby',
 'goloj567@gmail.com','Kolo Pol','Cewek Main M','Rony Handry Mustofa','Mohamad pratama Mukti','HjPro FD','Kenzie','Arrel Peter','Fahmi Arifan','Ahmad Farochi','Tempoyak Gaming','Fahmi A.','uang dollar','Tania Ayu','zainal ilmi',
 'Achmad Hasan Ramdhanie','Andri Ada Mangopo','Jenderal Bulo','Revaldo Nadio','Khusnil Ibad','roobyjarwo','adi doank','TanpaNama',
-
+'Bayu Arya','feli
+','Buyut Berbunga','Goyeng Asoy Asoy','Hilda','Omae Adn','Ai yohan',
+'Run','Hunter Killer','Cornellio Dommey Dhoe','Ucok Oo','seftyan poerboyo','Agent Red','Tuan Kiet','Luthfy Kurnia Fadly','fallen savage','Jaya Wijaya','Norah C Gaming',
 ];
 
 $toto = ['tes',];
