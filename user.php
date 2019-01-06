@@ -85,7 +85,22 @@ $data= [
 'Achmad Hasan Ramdhanie','Andri Ada Mangopo','Jenderal Bulo','Revaldo Nadio','Khusnil Ibad','roobyjarwo','adi doank','TanpaNama',
 'Bayu Arya','feli
 ','Buyut Berbunga','Goyeng Asoy Asoy','Hilda','Omae Adn','Ai yohan',
-'Run','Hunter Killer','Cornellio Dommey Dhoe','Ucok Oo','seftyan poerboyo','Agent Red','Tuan Kiet','Luthfy Kurnia Fadly','fallen savage','Jaya Wijaya','Norah C Gaming',
+'Run','Hunter Killer','Cornellio Dommey Dhoe','Ucok Oo','seftyan poerboyo','Agent Red','Tuan Kiet','Luthfy Kurnia Fadly','fallen savage','Jaya Wijaya','Norah C Gaming','Akbar Riski','The Clash','opslank12@gmail.com','Arya Ahmed',
+
+'Reza Miftahul Anas','S S','wahyu innoes','Saiful Imam','kamaluddin muktar','Blackberry Z3','Novri Wendra','Dudi Sopyan','Intan 2017','Sirin MSC','DeathSilver I Servidores configurados y plugins!','Felipe Batista','Dewo Bayu','Felipe Batista','Felipe Batista',
+
+'Pedri Antonito','Juan Yeecero','Pepe Tervero','Ramananta ','hacker s','Agus','Fahmy','fahmy amirudin','Eva Nurjannah','Bang Ands','Siska Kelvin','Perfect Kill','Pak Cik','michkaelkelvin@gmail.com','pak dee',
+
+'heru w','Ahmad fachrudin','ulauli341@gmail.com','Syubbanul Musthofa','Apa Adanya','Ped Rebellious Squad','Rizky Ok','Fakih Ade','sinyoayu3@gmail.com','Feren Reza Reynaldo','Uzonedancok Asu','Khaerul','Hadi','princealbert294@gmail.com','Anwar',
+
+'Fil Pol','Adim Trimo','Bhongol Crew','sururi Amin','chrisna bayu','Riki Sudarso15','Iqbal A.R','mino lagi','Gb Jkt','Koko Kurnia','jajaxok@gmai','Game Master','Zaky Maulana','Echa Moedji','Лэвиш Подольський',
+
+'Ahmad Fachrudin','Panyun','maseco aja','Indah','Speedek','Gigi22','Agung Lesmanàa','Agus Ryanto','NNchannel Gaming','Enjoy Bambela','Enjay Mangkir','ahmad hamdy','Ramiro Minucci','Brandon Sanchez de García','Agus Asep',
+
+'fakunsatu1@gmail.com','Guruh Nugroho','chris alfonso','Kalil Bernardo Andrada','pali luuluu','Muhammad Ayash','Ijo Lan','Rivaldy','Peter Natanael','Bob 92','Kori','Livermore Endless','DiKdik Kra','Galih Nuryono','Faizal Abidin',
+
+'Remkidz','Febri','Ramadhan Firman','Fathol','andi.dika3460@gmail.com','Black Bolt','rezza curut46','Nicholas Parasian','SetiaAja','Igg Igg','Sukri Sabar','11 11','nggak JELAS','Erlangga Cliquerz',
+
 ];
 
 $toto = ['tes',];
