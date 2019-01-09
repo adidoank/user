@@ -99,7 +99,7 @@ $data= [
 
 'fakunsatu1@gmail.com','Guruh Nugroho','chris alfonso','Kalil Bernardo Andrada','pali luuluu','Muhammad Ayash','Ijo Lan','Rivaldy','Peter Natanael','Bob 92','Kori','Livermore Endless','DiKdik Kra','Galih Nuryono','Faizal Abidin',
 
-'Remkidz','Febri','Ramadhan Firman','Fathol','andi.dika3460@gmail.com','Black Bolt','rezza curut46','Nicholas Parasian','SetiaAja','Igg Igg','Sukri Sabar','11 11','nggak JELAS','Erlangga Cliquerz',
+'Remkidz','Febri','Ramadhan Firman','Fathol','andi.dika3460@gmail.com','Black Bolt','rezza curut46','Nicholas Parasian','SetiaAja','Igg Igg','Sukri Sabar','11 11','nggak JELAS','Erlangga Cliquerz','The Dion','Ucoq','Ucoq','Kiki Jarrodt','Rhavael Sumilat','M Lan','Rokim Wae','Anu','re za','Dyland Dildo','Bayu Apriyanto','Apung Arniadi Gunawan','kevin Soetri','ariba Game','Smart B0y','rislan3yakin@gmail.com','Pahadangan Hajanah','Patrick Mark','Wewei','Koko','Adi Rano lee','hasanudin','Anu Vps','Kopay Hideng','Ardiansyah Dalimunthe','Feri Setiawan','ESA BVC','David Dtse','omujundwrt@gmail.com','Dede Brayen','muhammad fik','sumaj500@gma','Iantiger92','Fears Nothing','Christian Tindoc','Fear he who ','R AN','Ari Setiabud','pencinta gamers','Soni Herman','Jupe Suca','fadhlyiqbal3@gmail.com','jokokolo76@gmail.com','Lap','Agni Yusuf','faisal04','Rizki Wardana','Yusfachlevi ','Yusfachlevi Reza R','faisal Alamsyah','arief nabhan','Arsya Zain','Fahbel','Dede Lesmana','Seiya','Quanqi','danu wiranugraha','Dwi Vankurie',
 
 ];
 
