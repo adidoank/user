@@ -4,7 +4,7 @@ echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'L41023';
 $ads= $putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih."| atau |".$ijo." sungging [-]";
-$msgtoto = "[!] Subscribe Youtube adi bordir dan Sungging".$t.$red."[°] demi keamanan hentikan aktifitas bot sekarang !!!!".$t.$kuning."[•] ctrl + c";
+$msgtoto = "[!] Subscribe Youtube adi bordir dan Sungging".$t.$ijo."[°] hanya mereka yang berani gagal ".$t."[•] dapat meraih keberhasilan";
 $msgyd = "[!] ganguan pada server jangan panik ini tidak lama";
 $yd_stat = true;
 $vip1= false;
