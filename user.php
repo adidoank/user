@@ -50,7 +50,7 @@ $vip1= false;
 //$weblock =[""];
 $ydblock = [""];
 $we_stat = false;
-$msgwe = "[!] oops sorry silahkan cek billboard w&e".$t.$red."[•] demi keamanan hentikan aktivitas ini  ".$t.$kuning."[--] ctrl+c kalo ngeyel bodo amat".$t.$turkis."[•] pahami dengan baik jangan  banyak tanya ";
+$msgwe = "[•] wait for upgrade ";
 $msgveeu = "[!] enjoy your life";
 
 $data= [
