@@ -49,7 +49,7 @@ $yd_stat = true;
 $vip1= false;
 //$weblock =[""];
 $ydblock = [""];
-$we_stat = false;
+$we_stat = true;
 $msgwe = "[•] wait for upgrade ";
 $msgveeu = "[!] enjoy your life";
 
