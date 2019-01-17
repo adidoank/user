@@ -3,7 +3,7 @@ echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 $stat_ads=true;
-$sungging = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'L41023';
+$sungging = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'I46346';
 $ads= $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'L41023'.$t.$putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih."| atau |".$ijo." sungging [-]";
 
 $msgtoto = "[!] Subscribe Youtube adi bordir dan Sungging".$t.$ijo."[•••••] sekilas info [••••••]
@@ -55,7 +55,7 @@ $msgwe = "[•] wait for upgrade ";
 $msgveeu = "[!] enjoy your life";
 
 $data= [
-'adi bordir','L41023','adi doank',
+'adi bordir','L41023','adi doank','I46346',
  'Adi Digitizer','Dzi','semua andinya','sungging','asep kanceuh','putripesek','nubie305','ateng','Bal Lack','Maulana Setiawan','suga zora','Thauvan GT','yassar sha\'id shafi\'i','Moezza 01','စုံလင်သော အလ','hasan coc','Pro Master','hasan abut','gan bro','Yudi Pratmaja','Gembel Elite','imel telu','SkaLova','Badrun','Nhóc Con Sr','Delwin Yoanes',
 'Beuti Lavea','MasterCraft Vn','Ari Sandi','I love Cartoon','Kaboom','Robert Simangunsong','Mohamad Husn',
 'Lucy Thien','Adi Trader Demo','Mif Takhul','Feyy','I Dewa Gede Superatikadewa','Wendik','Qohwah',
