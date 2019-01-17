@@ -2,6 +2,7 @@
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
+$stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'L41023';
 $ads= $putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih."| atau |".$ijo." sungging [-]";
 
