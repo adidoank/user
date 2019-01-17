@@ -144,6 +144,8 @@ $data= [
 
 //vip
 "W96630",
+//adidoank
+'Adam Ersanur','Wind Ci','TANPA BATAS','Alifian Dzaki','LK tv',
 ];
 
 $toto = ['tes',];
