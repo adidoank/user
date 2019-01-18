@@ -151,7 +151,7 @@ $data= ['H84391',
 'Safitri ,','ANAK TUTORIAL','Azis Herjuno','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Ferdy Rizaldi','Anun YK Ina','Len','Bilal Maulana','Maman','Angga Sena Casandra','paulsculd678@gmail.com','ANGGI','Muhammad Ikbal','Jrock Star','Muhammad Irman Raya','Purwono','Ikbal Kepalasuku Ujungpanrang','baca plus','Lucky Lucky','Zedrik Bam','Rahma Only\'For One\'Heart','Muhammad Zafran Alfariq','Agara Net',
 //input
  'APRI YANTO','Aditya Ramad','Anun Dwi Yulianto',
-'Veranda vee','Miyako Titin','Gugung Jagi','G12717','Sinyorie Enorie','Ventura','Sry Jayaa','Kontoru Sama','Kwarasan Kenapa','Fanss Milyha','game gue','Cemul','Milyha Dipa','Parzy Leor',
+'Veranda vee','Miyako Titin','Gugung Jagi','G12717','Sinyorie Enorie','Ventura','Sry Jayaa','Kontoru Sama','Kwarasan Kenapa','Fanss Milyha','game gue','Cemul','Milyha Dipa','Parzy Leor','Alifian Dzaki','Meka Alfin Permana','Tukang Copas','adieb nur hafidz',
  ];
 
 $toto = ['tes',];
