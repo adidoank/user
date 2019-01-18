@@ -149,7 +149,10 @@ $data= ['H84391',
 'Putry We','Mhmd Jejen','ssophan channel','Ferdy Ndest','Nanang Hermansyah','Dede Mukhtar','Lastlah Anjing','Fauji Ikhwana','Red Roseate','Red Roseate','faisal ztm','mobile lengendary',
 //sungging
 'Safitri ,','ANAK TUTORIAL','Azis Herjuno','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Ferdy Rizaldi','Anun YK Ina','Len','Bilal Maulana','Maman','Angga Sena Casandra','paulsculd678@gmail.com','ANGGI','Muhammad Ikbal','Jrock Star','Muhammad Irman Raya','Purwono','Ikbal Kepalasuku Ujungpanrang','baca plus','Lucky Lucky','Zedrik Bam','Rahma Only\'For One\'Heart','Muhammad Zafran Alfariq','Agara Net',
-       ];
+//input
+ 'APRI YANTO','Aditya Ramad','Anun Dwi Yulianto',
+'Veranda vee','Miyako Titin','Gugung Jagi',
+ ];
 
 $toto = ['tes',];
 $ydnews = ['tes','adidoank',];
