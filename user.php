@@ -152,7 +152,11 @@ $data= ['H84391',
 //input
  'APRI YANTO','Aditya Ramad','Anun Dwi Yulianto',
 'Veranda vee','Miyako Titin','Gugung Jagi','G12717','Sinyorie Enorie','Ventura','Sry Jayaa','Kontoru Sama','Kwarasan Kenapa','Fanss Milyha','game gue','Cemul','Milyha Dipa','Parzy Leor','Alifian Dzaki','Meka Alfin Permana','Tukang Copas','adieb nur hafidz','Milytha Pabji','Ridhos Hago','Ridho YK','Nogotirto YK','tuyul baru1','Thursina Anna','Dja Rot','Dini Suswanti','宙宜尺尹','Krisna Ilham','Yogi Martha','Kristiana Honnie pilsa','N\'chev Jepank','asepairil22@gmail.com','Muh Zuhdi','Kang Roki','Fachrurodzii','Moch Tham','Dìmoka Deo','Faris HariSandy','Muh Zuhdi','Rizaldi Alfian','Roselle Santos','yusufsapta31@gmail.com','Tajul Arifin','Lesley El','Angel Putri','fara ciprit10','Maniac Receh','Alana Basil','EL Frank Ethan','ksupri541@gmail.com','mawar150690@gmail.com','Salsabila','Acek Wew','Kokyu Misariu','Dejon Raon','Joko Sutopo','Barep Pras W',                       'Galuh Prayoga','ramdhan achmad','Aji Saputra Ramadan','Hendra','Dany Catur','EJ','Setya Rangga','Arief Poenya','Ardy LoveHeaven Nabilla','Adi Samsul','Clay Dark','egi pangestu','凡Ɗιs ANDEZ','RANGGEN I-on','joni joni',
-'Ahmad Syarifudin','Anime Indo','Vipsaw','Heels Ru','Mardha Waty','andi arjuna','GAREL Hent.','Tian Sopyan','Yanuar Fernandez','Afin Bachtiar','Minu Suherman','King Bug',
+'Ahmad Syarifudin','Anime Indo','Vipsaw','Heels Ru','Mardha Waty','andi arjuna','GAREL Hent.','Tian Sopyan','Yanuar Fernandez','Afin Bachtiar','Minu Suherman','King Bug','Dwi Putra','BAHNDITE','Gelas Akua','Febri Hamunangan','Dhanka Maaikha','maru dressden','miftakhul arif','Rahmat Julianto','prayoga galuh','Alfian Tamran',
+'Berog Gan','sa ngak','samplokndasmu4@gmail.com','barep praset','Gillang Ellyntina','afara har','Gilang 973','Zackriyya Wong','Curang DROID','Ardy Van Houten','Ahmad Fallz','Mario Teguh','TERBIT SANG SURYA','Dede Mukhtar','Adhy Samsul',
+'Rodenmaa R','Jajang Asmara','love Bitcoin','Dhiksa Iswara','song wai','Manuk Piit','Ano Nimus','Khaira Sahid','My Son','shinigami','Ogita Rumansyah','AS Gaming','Aiko Kenangan','Fata Habiburrohman','Adeel Chand',
+'LEN. ID','All Game Online27','ffdin dpn','Dani Donk1','Aiola Leo','gear second','alvaro putra','Syamsul Amir','Angela Maras','Dhe Puttri','masasep hasa','Yaah Saaa','Little Night','Fauzistiawan Putra Negerikubang','Arif',
+'fara ciprit01','Nicholas Parasian Tampubolon','Rhavael Sumilat','Suko Pauris','Nicholas Parasian Tampubolon','Joko Tingkir','Adi Loro',
  ];
 
 $toto = ['tes',];
