@@ -54,7 +54,7 @@ $we_stat = true;
 $msgwe = "[•] update vip versi 2.0 ";
 $msgveeu = "[!] enjoy your life";
 
-$data= [
+$data= ['H84391',
 'adi bordir','L41023','adi doank','I46346','ssunggingg',
  'Adi Digitizer','Dzi','semua andinya','sungging','asep kanceuh','putripesek','nubie305','ateng','Bal Lack','Maulana Setiawan','suga zora','Thauvan GT','yassar sha\'id shafi\'i','Moezza 01','စုံလင်သော အလ','hasan coc','Pro Master','hasan abut','gan bro','Yudi Pratmaja','Gembel Elite','imel telu','SkaLova','Badrun','Nhóc Con Sr','Delwin Yoanes',
 'Beuti Lavea','MasterCraft Vn','Ari Sandi','I love Cartoon','Kaboom','Robert Simangunsong','Mohamad Husn',
