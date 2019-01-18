@@ -156,7 +156,9 @@ $data= ['H84391',
 'Berog Gan','sa ngak','samplokndasmu4@gmail.com','barep praset','Gillang Ellyntina','afara har','Gilang 973','Zackriyya Wong','Curang DROID','Ardy Van Houten','Ahmad Fallz','Mario Teguh','TERBIT SANG SURYA','Dede Mukhtar','Adhy Samsul',
 'Rodenmaa R','Jajang Asmara','love Bitcoin','Dhiksa Iswara','song wai','Manuk Piit','Ano Nimus','Khaira Sahid','My Son','shinigami','Ogita Rumansyah','AS Gaming','Aiko Kenangan','Fata Habiburrohman','Adeel Chand',
 'LEN. ID','All Game Online27','ffdin dpn','Dani Donk1','Aiola Leo','gear second','alvaro putra','Syamsul Amir','Angela Maras','Dhe Puttri','masasep hasa','Yaah Saaa','Little Night','Fauzistiawan Putra Negerikubang','Arif',
-'fara ciprit01','Nicholas Parasian Tampubolon','Rhavael Sumilat','Suko Pauris','Nicholas Parasian Tampubolon','Joko Tingkir','Adi Loro','Angela Maras','Random ChannelTM','GM Kardus','Lukman Hakim',
+'fara ciprit01','Nicholas Parasian Tampubolon','Rhavael Sumilat','Suko Pauris','Nicholas Parasian Tampubolon','Joko Tingkir','Adi Loro','Angela Maras','Random ChannelTM','GM Kardus','Lukman Hakim','Rival Acc','Warda Tunnisa','Mawar Duri',
+'Aditya Abimanyu','Angel Tiara Putri','Aa herry','Ibnu prasetya','xARMY BORNEO','Dimas Budi','Yusdi Albayck','Dani Rpr','banana travel','Nevandra Hensa','Harry 187','Muhamad Fahrul',
+'Iriel Tivang','Reza hasad','Derio Geko','Jono Jini','Fashul Id','Foto Rofika',
  ];
 
 $toto = ['tes',];
