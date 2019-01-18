@@ -146,7 +146,7 @@ $data= ['H84391',
 "W96630",
 //adidonk 
 'serenamonic1','Adam Ersanur','Wind Ci','TANPA BATAS','Alifian Dzaki','LK tv','ilham maulana','Duki Duketo','Danang Mahmud','Alto Hadi Lukita Jaya','Adam Ersanur',
-'Putry We','Mhmd Jejen','ssophan channel','Ferdy Ndest','Nanang Hermansyah','Dede Mukhtar','Lastlah Anjing','Fauji Ikhwana',
+'Putry We','Mhmd Jejen','ssophan channel','Ferdy Ndest','Nanang Hermansyah','Dede Mukhtar','Lastlah Anjing','Fauji Ikhwana','Red Roseate','Red Roseate','faisal ztm',
 //sungging
 'Safitri ,','ANAK TUTORIAL','Azis Herjuno','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Ferdy Rizaldi','Anun YK Ina','Len','Bilal Maulana','Maman',
 'Angga Sena Casandra','paulsculd678@gmail.com','ANGGI','Muhammad Ikbal','Jrock Star',
