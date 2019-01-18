@@ -149,7 +149,7 @@ $data= ['H84391',
 'Putry We','Mhmd Jejen','ssophan channel','Ferdy Ndest','Nanang Hermansyah','Dede Mukhtar','Lastlah Anjing','Fauji Ikhwana',
 //sungging
 'Safitri ,','ANAK TUTORIAL','Azis Herjuno','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Ferdy Rizaldi','Anun YK Ina','Len','Bilal Maulana','Maman',
-'Angga Sena Casandra','paulsculd678@gmail.com','ANGGI','Muhammad Ikbal',
+'Angga Sena Casandra','paulsculd678@gmail.com','ANGGI','Muhammad Ikbal','Jrock Star',
 ];
 
 $toto = ['tes',];
