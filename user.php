@@ -160,7 +160,8 @@ $data= ['H84391',
 'Aditya Abimanyu','Angel Tiara Putri','Aa herry','Ibnu prasetya','xARMY BORNEO','Dimas Budi','Yusdi Albayck','Dani Rpr','banana travel','Nevandra Hensa','Harry 187','Muhamad Fahrul',
 'Iriel Tivang','Reza hasad','Derio Geko','Jono Jini','Fashul Id','Foto Rofika','Ryanta','info hits','Rahmat Wiratmoko','Cewek Bohay','muhamad fahrul','Ucok Lele','Billi Almukaromah','Tito Zhafiratul Atmasinta','Nelomo Pubome','Pejelo Vame','manyuabi','Ariipo Vika','Kolt Sunosu','Ghazy',
 'Black Smith','mohamad iqbal','Rap- MCT','Tito Zhafiratul Atmasinta','MH Fahrul','ipoel adm','Pendi Doang','eko putra','Abiutomoaji Nawiro',
-'Mertua Muda','Abi Utomo Aji','Abi Rizki','Astar','TappeiMix','Iwan Etet','Rois Hasan','irfan hartanto','Ilham','Erik Rizal','Amir Mboyz','Iwanz Chriztchrouw Seven','Sheena callysta almira',
+'Mertua Muda','Abi Utomo Aji','Abi Rizki','Astar','TappeiMix','Iwan Etet','Rois Hasan','irfan hartanto','Ilham','Erik Rizal','Amir Mboyz','Iwanz Chriztchrouw Seven','Sheena callysta almira','Firman Nugraha','MaiBie 1217','dollar india','Never Late','Rolong','Ariek Sundari','Htin Ka Ya M','Santa Santo','Mariano Arias D\'Ygnoti','Dian Cok','lucas.cobosss@gmail.com','angry picnic','Joseph Lee','Pedjuang Dollar','Miftakhul Rizal','curut sengur','galih kurniawan','Paijo Sutrisno',
+'Pencari Receh',
  ];
 
 $toto = ['tes',];
