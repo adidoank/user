@@ -148,7 +148,7 @@ $data= ['H84391',
 'serenamonic1','Adam Ersanur','Wind Ci','TANPA BATAS','Alifian Dzaki','LK tv','ilham maulana','Duki Duketo','Danang Mahmud','Alto Hadi Lukita Jaya','Adam Ersanur',
 'Putry We','Mhmd Jejen','ssophan channel','Ferdy Ndest','Nanang Hermansyah','Dede Mukhtar','Lastlah Anjing','Fauji Ikhwana',
 //sungging
-'Safitri ,','ANAK TUTORIAL','Azis Herjuno','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Ferdy Rizaldi','Anun YK Ina','Len',
+'Safitri ,','ANAK TUTORIAL','Azis Herjuno','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Muhammad Ridwan','Ferdy Rizaldi','Anun YK Ina','Ghozy Faix','Mobile.legends Moments',
 ];
 
 $toto = ['tes',];
