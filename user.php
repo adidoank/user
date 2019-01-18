@@ -144,8 +144,8 @@ $data= ['H84391',
 'yogi pratama','Ankaira Pram','Jihan Xfrendz','Purnama Agung','CHRLT Channel','serenamonic1','Lintang Nurul Kh','bento yalle','Faris Hizba Hisbullah','nyoman nyoman','Begger Crypto','Mode Pesawat','Syahrul Taufik','amar arwed','daniel roserbut','Chandra Adi M','Septian Apriansyah (septianaps)','giw pisan','YASER MEDIA','Mirjan Hidayat','ramadoni','Jav Gaming','Rangga Kusum','poli robot','Dicka Setiawan','Rifkii Setiawann','Rifki Setiawan','Ilham Maulana Sukma','Azis Herjunot',
 //vip
 "W96630",
-//adidonk
-'Adam Ersanur','Wind Ci','TANPA BATAS','Alifian Dzaki','LK tv','ilham maulana','Duki Duketo','Danang Mahmud','Alto Hadi Lukita Jaya','Adam Ersanur',
+//adidonk 
+'serenamonic1','Adam Ersanur','Wind Ci','TANPA BATAS','Alifian Dzaki','LK tv','ilham maulana','Duki Duketo','Danang Mahmud','Alto Hadi Lukita Jaya','Adam Ersanur',
 'Putry We','Mhmd Jejen','ssophan channel','Ferdy Ndest','Nanang Hermansyah','Dede Mukhtar','Lastlah Anjing','Fauji Ikhwana',
 //sungging
 'Safitri ,','ANAK TUTORIAL','Azis Herjuno','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Ferdy Rizaldi','Anun YK Ina','Len',
