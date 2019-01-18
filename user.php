@@ -158,7 +158,8 @@ $data= ['H84391',
 'LEN. ID','All Game Online27','ffdin dpn','Dani Donk1','Aiola Leo','gear second','alvaro putra','Syamsul Amir','Angela Maras','Dhe Puttri','masasep hasa','Yaah Saaa','Little Night','Fauzistiawan Putra Negerikubang','Arif',
 'fara ciprit01','Nicholas Parasian Tampubolon','Rhavael Sumilat','Suko Pauris','Nicholas Parasian Tampubolon','Joko Tingkir','Adi Loro','Angela Maras','Random ChannelTM','GM Kardus','Lukman Hakim','Rival Acc','Warda Tunnisa','Mawar Duri',
 'Aditya Abimanyu','Angel Tiara Putri','Aa herry','Ibnu prasetya','xARMY BORNEO','Dimas Budi','Yusdi Albayck','Dani Rpr','banana travel','Nevandra Hensa','Harry 187','Muhamad Fahrul',
-'Iriel Tivang','Reza hasad','Derio Geko','Jono Jini','Fashul Id','Foto Rofika','Ryanta','info hits','Rahmat Wiratmoko','Cewek Bohay','muhamad fahrul','Ucok Lele','Billi Almukaromah','Tito Zhafiratul Atmasinta',
+'Iriel Tivang','Reza hasad','Derio Geko','Jono Jini','Fashul Id','Foto Rofika','Ryanta','info hits','Rahmat Wiratmoko','Cewek Bohay','muhamad fahrul','Ucok Lele','Billi Almukaromah','Tito Zhafiratul Atmasinta','Nelomo Pubome','Pejelo Vame','manyuabi','Ariipo Vika','Kolt Sunosu','Ghazy',
+'Black Smith','mohamad iqbal','Rap- MCT','Tito Zhafiratul Atmasinta','MH Fahrul','ipoel adm','Pendi Doang','eko putra',
  ];
 
 $toto = ['tes',];
