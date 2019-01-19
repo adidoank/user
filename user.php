@@ -163,7 +163,8 @@ $data= ['H84391',
 'Mertua Muda','Abi Utomo Aji','Abi Rizki','Astar','TappeiMix','Iwan Etet','Rois Hasan','irfan hartanto','Ilham','Erik Rizal','Amir Mboyz','Iwanz Chriztchrouw Seven','Sheena callysta almira','Firman Nugraha','MaiBie 1217','dollar india','Never Late','Rolong','Ariek Sundari','Htin Ka Ya M','Santa Santo','Mariano Arias D\'Ygnoti','Dian Cok','lucas.cobosss@gmail.com','angry picnic','Joseph Lee','Pedjuang Dollar','Miftakhul Rizal','curut sengur','galih kurniawan','Paijo Sutrisno',
 'Pencari Receh','Rudy Mr13','Octa Core','Dody
 ','Stree Crew','Awan Hitam','dollar singapura','wjlo234567@gmail.com','ST MBc I','Harris Sopiy','Andy Lay','sadig guna','arjuna 18','Aplikasi Dolar','legitpaypal2@gmail.com','Aqhue Amph Machal','Supriyatna','Miftakhul Rizal','Toto Isytaru','Sam Ping','Claudio Faria','sia cupu','arif fx','Ivan Rakitic','Natalia Angg','Nizar ','Muhammad Nizar','Dhehwhsbdbbdbebebe Bdbdbdjeiejdbfbdb','Siti Farida','Ferdo Danang5','Sella Ayu','Dewa 12','muhammad riza','Sanjaya DxS','zay depraxis','Handika Saputra','asnan asnan','Wardatunnisa','Ayiep Pio','Dewa Dewa','Thoyyib Jiddan','Dika Hardiansyah','AD REVIEW','Dewa Rian','Fahri ardian','hilalmaulana734@gmail.com','Abdu Fajar','Junaidi :v','Kurnia Sandi','Muhammad Fahri Ardiansyah','Trauma Trauma','Sella Ayu Nurmasita','Rizqi Aulia Wildan','James Arthur','Muhammad Fahri Ardiansyah',
- ];
+'Phytagoras','Rei Morgan','Demittegal 8001','Abdhu Fadjar','raferire2@gmail.com','Max xia Otnong2','LC','kaptenibnu suryajana','Erwin Ardi Zona','Gabriel Roberto','ANGGI','mobilekulegends@gmail.com','deepu t d','Toney','Muspik Amarullah',
+       ];
 
 $toto = ['tes',];
 $ydnews = ['tes','adidoank',];
