@@ -167,7 +167,7 @@ $data= ['H84391',
 'SB threetwnty','Ahmad Subejo','Yogi Aditia','Arya Putra','StaabWolfPack Gaming','Yohan Troope','Syed Moiz Uddin Ahmed','Dian Safitri','Mbote Ed','Toman Dini','ki palm','Irwan','Shuyaa Goenji','Orang Goblogs','arie putraa','Kang Cury','Furqon','Zuhair Hudry','aden juna','Arsa Rahman','Seaknight12 13','latif ferbri','MYMUSIC sdk','Rizqy Fajar','Yafi\'ah 0611','God Hand','Achmad Mafazun','Rama Dhani','GINA AULIA GG','qais cjdw','DhEni Wahyu ShEtiawan','Nur Cahyo','Rangga Winata','Amier Nahl',
 'IndoTUBE','Reza Mustofa','Muhammad Opang','Sapi Junior','Deni Oget','Yogi Aditia','ahmad syarif','Sabar Saja','ryan yunantio','Ika Nasution','Uciha Ainn','Hafidh Artala','Shelley Can','uwitdodo404@gmail.com','Masrani Dewi','cyunix 13','Ricko Setyaw','Reggy Lihawa','Wahid Rivaldy','rozaktuyul0036@gmail.com','Dudoh Tewel','Hery sutiyana','Rizal Al Var','Moeha Moeha','riza wae','Tuyul 243',
 'reza abdulrahman','Akun Youtube','Azka Darmawan','Victor Jonas','Rendel Ndel','sgx kaito','Cnazta','RamdaNi YT','BOJES GAMING','Akrom Gamers','Warna Sari','mazeland1901@gmail.com','sukasenang #17',
-
+'Aziz Khadarismawan','Berbagi Ilmu','Satrio Wibowo','Amiek Earn','Rendi Alfiansyah','glaydis','ojan jan','erosensei45@gmail.com','Capcin Sampay','Sentoso','david febri','koko Meo','Mbah 911','dikipernandi saputra','Pongpisut Suayroop','Fadlan Mubarok','Rozak Nuyul',
        ];
 
 $toto = ['tes',];
