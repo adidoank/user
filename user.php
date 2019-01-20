@@ -170,7 +170,7 @@ $data= ['H84391',
 'Aziz Khadarismawan','Berbagi Ilmu','Satrio Wibowo','Amiek Earn','Rendi Alfiansyah','glaydis','ojan jan','erosensei45@gmail.com','Capcin Sampay','Sentoso','david febri','koko Meo','Mbah 911','dikipernandi saputra','Pongpisut Suayroop','Fadlan Mubarok','Rozak Nuyul',
 'pandy almuklas','Iyan Cakrawala','Cnazta Aquariuz','Ecko Budi','Alby Praditya','Fariz Zandi','Purwa Nugraha','Nanang Wijaya',
 'Ihsan Shiddiq','Sinta Bunga','Ihsan Shiddiq','  ꧾꧾ','Eli Rudiyanto','Hacker Ganden','Receh Licorice','Gabriel Swgs','Giant Gaming','Indri Yani','Pesan Singkat','Dani Donk','ArIk Akhir Februari','Dodi Haryanto',
-'Sinta Bunga','Ihsan Shiddiq','Kurniawan Arief','Rifky Chandra','Ifan Ikshan','Slamet Widodo','Ninja 00','ahmad muharom','Putri Amelia','Simala Kama','Budi Sake','hery cebe independen','Denz Ahmad N','Diky Cahyadi','Denauval Storm','C4RY MORE','King Kong',
+'Sinta Bunga','Ihsan Shiddiq','Kurniawan Arief','Rifky Chandra','Ifan Ikshan','Slamet Widodo','Ninja 00','ahmad muharom','Putri Amelia','Simala Kama','Budi Sake','hery cebe independen','Denz Ahmad N','Diky Cahyadi','Denauval Storm','C4RY MORE','King Kong','Dimas Agus','Heldi Arisandi','Nur Syahida','Ferdinan Gagal Kece','iklandoang@gmail.com','Gani Zahidan',
        ];
 
 $toto = ['tes',];
