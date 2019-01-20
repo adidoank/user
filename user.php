@@ -171,7 +171,7 @@ $data= ['H84391',
 'pandy almuklas','Iyan Cakrawala','Cnazta Aquariuz','Ecko Budi','Alby Praditya','Fariz Zandi','Purwa Nugraha','Nanang Wijaya','Moch dedy Setiyawan','NFA FAIZ','Kwarasan Knp','Ahmad Subejo','L39248',
 'Ihsan Shiddiq','Sinta Bunga','Ihsan Shiddiq','  ꧾꧾ','Eli Rudiyanto','Hacker Ganden','Receh Licorice','Gabriel Swgs','Giant Gaming','Indri Yani','Pesan Singkat','Dani Donk','ArIk Akhir Februari','Dodi Haryanto',
 'Sinta Bunga','Ihsan Shiddiq','Kurniawan Arief','Rifky Chandra','Ifan Ikshan','Slamet Widodo','Ninja 00','ahmad muharom','Putri Amelia','Simala Kama','Budi Sake','hery cebe independen','Denz Ahmad N','Diky Cahyadi','Denauval Storm','C4RY MORE','King Kong','Dimas Agus','Heldi Arisandi','Nur Syahida','Ferdinan Gagal Kece','iklandoang@gmail.com','Gani Zahidan','Kwarasan Knp','Berasku Sp','Nanto Darta','Moch Dedy Setiyawan','Firdan Alfarizi','Y54166',
- 'Indah Channel','PRAKA SAJA','raisaserbasalah4@gmail.com','Mauludin Ihs','Win Arti','Eyik Tama',
+ 'Indah Channel','PRAKA SAJA','raisaserbasalah4@gmail.com','Mauludin Ihs','Win Arti','Eyik Tama','luffysan2810@gmail.com',
        ];
 
 $toto = ['tes',];
