@@ -51,7 +51,7 @@ $vip1= false;
 //$weblock =["Imam Almasyah Risanzani",];
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
-$msgwe = "[•] update vip versi 2.0 ";
+$msgwe = "[•] enjoy your life ";
 $msgveeu = "[!] enjoy your life";
 
 $data= ['H84391',
