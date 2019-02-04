@@ -187,6 +187,7 @@ $data= ['H84391',
 'Bayu Satya','cumay','Sri Jaka','Guji Huti','Fdysf Gdybo','taupik','RayLL Ribeir','Cristofer Dominguez','J Δ•HoKaGe•Δ','Vain Fury GTR','Tm SouL kz','Muhammad Ainun Nazibb','Sandi Mukhlasin','Aditya Van Bagheur','wirog sableng',
 'Sapar Udin','ivan sabil','Garox Project','Sariday','Bayu Alfa','Via Agatha','Arif Boi','Ikhmal Abdullah','Rahmanda Rangga Pradana','Kuba kuba pl','Indra Hidaya','Irfan Kurniawan','Hanif Hh',
 'Kings Zhao','REYN NOEDHA PRATAMA','Mukhlis perdana','Zacky St','deden ahmad nawawi','Bun Cu','iwan balok',
+'Zbq Ko','Mohammad Towfiq Hossen','Galaxy','Vannesa Angl','Akbar Gaharu','Rahman Muhamad','Kang Kiez','Ridho Firmansyah','Risky channel','Dani Awalludin','Kristian Bayu','Maria Lopes','gagodoh cau','Ahmad Yusuf','Suriadi Rin','Denis Boy Cl','Juragan Tempe',
 
        ];
 
