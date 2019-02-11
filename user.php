@@ -196,6 +196,7 @@ $data= ['H84391',
 'Awans','Jaelani Orens','Aneuk Cabak Channel','Memed Aneuk Cabak','heri arif','Keepcalm','Satria Mahardika','Tazrian Dwi Saputra','Putri Dewi','Anang Gotte','Pubg Yhas','Tuyil Online','Zaty 6','Animal Lovers','Hatake Kakashi','Muhammad Fajar','Tam bayonG#27','Kun Aji Songo','Surya Hihereafter','Denny Ined','Verry Adiatma','jok kljik','BWI Gaming','Ibnuu Senaa','RafLi','Datoksek Wirawan','JuLian Tika','sugeng Hari','Awan S','Ryan Art',
 'lilis','Gabriela Alaxander',
 'Andri Nurfajar','now 9','Marfalah','adeyana','Armn Rmdhn12','Bejo Dweso','Yogi Independen','Frentill 123','Hardware Software','Berbagi Tutorial','Memet','Iif Ariefrohman','Ipman Kirishima I','thanoma arli','Ilham Nadhif','Pick Dath','Putri Andini','Kwarasan Knp','Milytha Pabji','Ridhos Hago','Ridho YK','Milyha Dipa','Fanss Milyha','Anun YK Ina','Adeyana Keren\'z','Jono Fice','Dolar Bitcoin','Riyan Azhari','Mas Paijo New','Super Legit','Rhanu Blambangan',
+'Aan','Loncek Gilo','Yoni Q','Online Shop','tuyul admob','Robi','chaplin uyee','pletet aku',
 
        ];
 
