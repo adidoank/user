@@ -194,7 +194,7 @@ $data= ['H84391',
 'Zbq Mi','Angel Maikon','Jien','Maysa Ingin Bahagiieeaa Sa','Zbq Ko','Koenchoro Adjie','Zbq Ko','Alim Hida',
 'Muchammad Muid','Farid Husain','Noedho Pratama','Eka Mahardhi','Pukkong21 1298','addesolikin@gmail.com','Adittya Ae West','Yossy Made','Abi Wiryaw','Bikin Baper - BF','Izzun Bae','Afuan Asyura','Aofar','najmudin','Arif Rahman','Vana Cloud','Muhamad Indra Wisnu','Tesra Buit','Zhe Aurel','Fatimah Azah','Junai Di','Sigit Purnomo','Yudie Baskoro','Totok Sujarw','Chandra Purnama','Sultan rewords','riza ma','nabil gps','Ichwan saputra','CingLuw','Samuel Aryo','Ryan Noel','udin lita','Yosrizal ,','Egha Scarlett','free Time','Rio Dimas Pratama','Bery Putra Pati','Isa Maliki','Fernando Put','Galih S','Dandy Dandy','andik tyas','Mohd Ridhwan','JULIG MARSUD','channel_sptr update','Yogi โยคี','Ivan Zulva','Faisal Maulana','Faisal Maulana','semarmoviefi','Ryan Azhari','Handri Dustira','Jaka Gledek','Fajar Pamungkas','Iis Yulianti','Om Jacx','Andri Suhendra','Bruls Crypto','arry artt','Wahyu Praset','Yuga RX','Van Anderson','Venda Candra','Aryunis 77','Ahmad Maulana','timunkattok@gmail.com',
 'Awans','Jaelani Orens','Aneuk Cabak Channel','Memed Aneuk Cabak','heri arif','Keepcalm','Satria Mahardika','Tazrian Dwi Saputra','Putri Dewi','Anang Gotte','Pubg Yhas','Tuyil Online','Zaty 6','Animal Lovers','Hatake Kakashi','Muhammad Fajar','Tam bayonG#27','Kun Aji Songo','Surya Hihereafter','Denny Ined','Verry Adiatma','jok kljik','BWI Gaming','Ibnuu Senaa','RafLi','Datoksek Wirawan','JuLian Tika','sugeng Hari','Awan S','Ryan Art',
-'lilis',' Gabriela Alaxander',
+'lilis','Gabriela Alaxander',
 
        ];
 
