@@ -197,6 +197,7 @@ $data= ['H84391',
 'lilis','Gabriela Alaxander',
 'Andri Nurfajar','now 9','Marfalah','adeyana','Armn Rmdhn12','Bejo Dweso','Yogi Independen','Frentill 123','Hardware Software','Berbagi Tutorial','Memet','Iif Ariefrohman','Ipman Kirishima I','thanoma arli','Ilham Nadhif','Pick Dath','Putri Andini','Kwarasan Knp','Milytha Pabji','Ridhos Hago','Ridho YK','Milyha Dipa','Fanss Milyha','Anun YK Ina','Adeyana Keren\'z','Jono Fice','Dolar Bitcoin','Riyan Azhari','Mas Paijo New','Super Legit','Rhanu Blambangan',
 'Aan','Loncek Gilo','Yoni Q','Online Shop','tuyul admob','Robi','chaplin uyee','pletet aku',
+'ovay waelah','Oi','Jay-ar Flore','abdull Chanif','alifjw _17','Dicky Sugara','Lukman Hakim','Muhammad Anggi Sugiri','Wahyudi Hidayat','Sony Jaya','Dedy','roy kiyosi',
 
        ];
 
