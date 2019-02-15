@@ -198,6 +198,7 @@ $data= ['H84391',
 'Andri Nurfajar','now 9','Marfalah','adeyana','Armn Rmdhn12','Bejo Dweso','Yogi Independen','Frentill 123','Hardware Software','Berbagi Tutorial','Memet','Iif Ariefrohman','Ipman Kirishima I','thanoma arli','Ilham Nadhif','Pick Dath','Putri Andini','Kwarasan Knp','Milytha Pabji','Ridhos Hago','Ridho YK','Milyha Dipa','Fanss Milyha','Anun YK Ina','Adeyana Keren\'z','Jono Fice','Dolar Bitcoin','Riyan Azhari','Mas Paijo New','Super Legit','Rhanu Blambangan',
 'Aan','Loncek Gilo','Yoni Q','Online Shop','tuyul admob','Robi','chaplin uyee','pletet aku',
 'ovay waelah','Oi','Jay-ar Flore','abdull Chanif','alifjw _17','Dicky Sugara','Lukman Hakim','Muhammad Anggi Sugiri','Wahyudi Hidayat','Sony Jaya','Dedy','roy kiyosi',
+'HASIBUAN CHANEL','Bilza G','Gabriel Rodriguez','Muhammad Risyad','kentuq kentuq','Abimanyu Sugara','YouTube Joylyf','LZ Nimers','LZ Nimers','gilang 87','Boboho chanel','Lingga','gon kilua','Hermansyah Slw','Sulton Mufasit','Joko Euy','el javanz','iwanfsc','Lanang Akira','Bisma Bisbahudin','Aziz Cahyo','JustKIM','Sutikno','taicok679@gmail.com','Wahyu Dan Rezi','LZ Nimers',
 
        ];
 
