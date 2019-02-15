@@ -5,9 +5,7 @@ echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'I46346';
 $ads= $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'I46346'.$t.$putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih."| atau |".$ijo." sungging [-]".$t."[•] sekilas info".$t.
-"[•] w&e berganti menjadi vesea".$t.
-"[•] silahkan download di playstore".$t.
-"[•] https://play.google.com/store/apps/details?id=com.sven.taoshijie.international".$t; 
+"[•] wait for update w&e >> vesea".$t; 
 
 $msgtoto = "[!] Subscribe Youtube adi bordir dan Sungging".$t.$ijo."[•••••] sekilas info [••••••]
 
