@@ -14,7 +14,9 @@ $vip1= false;
 //$weblock =["Imam Almasyah Risanzani",];
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
-$msgwe = "[•] update wne  vesea 3.0.1 ready";
+
+$msgwe = "[•] update wne  vesea 3.0.1 ready".$kuning."[•] untuk menjadi member gunakan kode invite di atas👆👆".$t.$red."[•] yang mau mencaci maki silahkan 😅".$t;
+
 $msgveeu = "[!] enjoy your life";
 
 $data= ['H84391','C19302',
