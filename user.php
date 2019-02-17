@@ -168,6 +168,7 @@ $data= ['H84391','C19302',
 'Samuel Batara','anna margaretta','nur zaman','Muhamad Ristiyanto','ANGGA ADITYA','Harvey Gosal','Santoso Ae','Ap Bocaw','Ferry Gunawan','Muhammad• Ardi','Super Hero','Agara Net','dede gerang50','Deny Setiyawan','Nasrul Hafiz','Syaiful Hammam','Sandy Lay','Lilung','Osamu Dazai','Jack djokam','Kosasi Djokam','Rama Dani','Sangpemburu 35',
 'Dolhan',
 'Asri Maulina','Cryptocurrency Info','Wahid Rivaldy','Indra Adiwijaya','Ane Tuy02','Ayu Amalia',
+'fir02061995@gmail.com','Wai Phyo','Zein Azka Muhammad','satan lay','ONE FOR ALL ','Regu Garuda','Adderly Hida','gigih gunawa','Muhyi Din','Ariel Steven','muhammad naufal','Nury Waelah','Tusta Gaura Das Tobia','zakaria rama','BamZ Kocak','Bam Z','Saifulbr Z','Sugara',
 
        ];
 
