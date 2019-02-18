@@ -170,7 +170,7 @@ $data= ['H84391','C19302',
 'Asri Maulina','Cryptocurrency Info','Wahid Rivaldy','Indra Adiwijaya','Ane Tuy02','Ayu Amalia',
 'fir02061995@gmail.com','Wai Phyo','Zein Azka Muhammad','satan lay','ONE FOR ALL ','Regu Garuda','Adderly Hida','gigih gunawa','Muhyi Din','Ariel Steven','muhammad naufal','Nury Waelah','Tusta Gaura Das Tobia','zakaria rama','BamZ Kocak','Bam Z','Saifulbr Z','Sugara',
 'ardi purnomo95','Dodi Fares Tersisi',
-'salwa aqilah','channel ketonggeng axsis','Ovay Waelah','farel setiawan',
+'salwa aqilah','channel ketonggeng axsis','Ovay Waelah','farel setiawan','Rafi Alaudin','Apriyan FeliCiano','Ade Supriatna',
 
        ];
 
