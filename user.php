@@ -174,7 +174,7 @@ $data= ['H84391','C19302',
 'Debora','apps and gamer channel','Rizal','komang madri','omosnon69@gm','Mayan Receh','Arfa Nusabariana','ံံံံ ံံံံ','Abdul Hafiz','H48714',
 'phreaker AE','Aqiila fitnes Center','Bikin Baper - BF','E92939',
 'Didix Sujarno','Nur Mualifah','Soj Charlotte',
-'riot\'s btrsd','Darma Chandra','King Kuchand','Eko Supriadi','nindy jeihan',
+'riot\'s btrsd','Darma Chandra','King Kuchand','Eko Supriadi','nindy jeihan','Rizal Nasion',
 
        ];
 
