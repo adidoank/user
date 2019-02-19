@@ -175,6 +175,7 @@ $data= ['H84391','C19302',
 'phreaker AE','Aqiila fitnes Center','Bikin Baper - BF','E92939',
 'Didix Sujarno','Nur Mualifah','Soj Charlotte',
 'riot\'s btrsd','Darma Chandra','King Kuchand','Eko Supriadi','nindy jeihan','Rizal Nasion','Bang Kins','Aryo Joni','Pertuyulan Gangstar','Reza Dekko',
+'rizalnasional1995@gmail.com','Arya Kc','Wahduaenam',
 
        ];
 
