@@ -17,7 +17,7 @@ $we_stat = true;
 
 $msgwe = "[•] update wne  vesea 3.0.1 ready".$t.$kuning."[•] untuk menjadi member gunakan kode invite di atas👆👆".$t.$red."[•] yang mau mencaci maki silahkan 😅".$t;
 
-$msgveeu = "[!] enjoy your life";
+$msgveeu = "[!] update skrip veeu".$t."[•] git clone https://github.com/adidoank/veeu";
 
 $data= ['H84391','C19302',
 'adi bordir','L41023','adi doank','I46346','ssunggingg',
