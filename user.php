@@ -177,6 +177,7 @@ $data= ['H84391','C19302',
 'riot\'s btrsd','Darma Chandra','King Kuchand','Eko Supriadi','nindy jeihan','Rizal Nasion','Bang Kins','Aryo Joni','Pertuyulan Gangstar','Reza Dekko',
 'rizalnasional1995@gmail.com','Arya Kc','Wahduaenam',
 'Reza Ahbani','Windii Rachmat','Hime Daisuki','Kimi Hime',
+'Lisin','Sina Jiam','Iyan Out Sider\'s','Flo Renza','Đại Thánh','Lisin','Liheli Prasugi','Da Chan','Fr Swt','Thảo','Wanchat','Jhon Philon Setiawan',
 
        ];
 
