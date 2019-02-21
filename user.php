@@ -180,7 +180,7 @@ $data= ['H84391','C19302',
 'Lisin','Sina Jiam','Iyan Out Sider\'s','Flo Renza','Đại Thánh','Lisin','Liheli Prasugi','Da Chan','Fr Swt','Thảo','Wanchat','Jhon Philon Setiawan',
 'Domminic Toretto','Desu Stunner','ATri _Ngasso',
 'Hellen Park','sota zucchi','Kokyu Misariu','lankkcrew','alex eloco',
-'aryo pratama',
+'aryo pratama','Ejenk Andreas','Freefire Saya',
 
        ];
 
