@@ -183,7 +183,7 @@ $data= ['H84391','C19302',
 'aryo pratama','Ejenk Andreas','Freefire Saya','Abot stand',
 'J51452','Muhammad Firmansyah','Kokyu Misariu','lankkcrew','alex eloco','Dickof Zapat','Mai Mai','Dani Kurnian','TEST TERBAIK','  ꧾꧾ','Dickof Zapatista','Tuyul Nuyul',
 'rafa sya','Randi Rahmadi',
-'nwanda','khamidlillah99@gmail.com',
+'nwanda','khamidlillah99@gmail.com','Randhika sayoga Putra firdaus','Aw He','I DK','IndraWan','TWO CRAFTER','Dami Syahputra',
 
        ];
 
