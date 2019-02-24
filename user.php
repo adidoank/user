@@ -185,7 +185,7 @@ $data= ['H84391','C19302',
 'rafa sya','Randi Rahmadi',
 'nwanda','khamidlillah99@gmail.com','Randhika sayoga Putra firdaus','Aw He','I DK','IndraWan','TWO CRAFTER','Dami Syahputra',
 'Sisca Nurmala','Xavier Yo','Indra Adi','Aimach Fawaid','Sayang Selalu','Agara Net',
-'Ibnu Wildan','DuM DuM','Alifmaulanaishaq00 7',
+'Ibnu Wildan','DuM DuM','Alifmaulanaishaq00 7','Tegoeh Pituwolu',
 
        ];
 
