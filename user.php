@@ -188,7 +188,7 @@ $data= ['H84391','C19302',
 'Ibnu Wildan','DuM DuM','Alifmaulanaishaq00 7','Tegoeh Pituwolu',
 'NURUL IMAMAH','Syafa Mx','jaran0917@gmail.com','Viermantz Chiboedaxslegedtz Nugraha','Black Shark','Muh Roni','Forum Facebook','Ismi Riko',
 'Amhs Ayuha','Rizki Fadillah','Fahmi Yea','Ren Gun','Si Cuplish',
-'Mercy Benz',
+'Mercy Benz','fajar',
 
        ];
 
