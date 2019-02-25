@@ -187,6 +187,7 @@ $data= ['H84391','C19302',
 'Sisca Nurmala','Xavier Yo','Indra Adi','Aimach Fawaid','Sayang Selalu','Agara Net',
 'Ibnu Wildan','DuM DuM','Alifmaulanaishaq00 7','Tegoeh Pituwolu',
 'NURUL IMAMAH','Syafa Mx','jaran0917@gmail.com','Viermantz Chiboedaxslegedtz Nugraha','Black Shark','Muh Roni','Forum Facebook','Ismi Riko',
+'Amhs Ayuha',
 
        ];
 
