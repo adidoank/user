@@ -186,7 +186,7 @@ $data= ['H84391','C19302',
 'nwanda','khamidlillah99@gmail.com','Randhika sayoga Putra firdaus','Aw He','I DK','IndraWan','TWO CRAFTER','Dami Syahputra',
 'Sisca Nurmala','Xavier Yo','Indra Adi','Aimach Fawaid','Sayang Selalu','Agara Net',
 'Ibnu Wildan','DuM DuM','Alifmaulanaishaq00 7','Tegoeh Pituwolu',
-'NURUL IMAMAH','Syafa Mx','jaran0917@gmail.com','Viermantz Chiboedaxslegedtz Nugraha','Black Shark','Muh Roni',
+'NURUL IMAMAH','Syafa Mx','jaran0917@gmail.com','Viermantz Chiboedaxslegedtz Nugraha','Black Shark','Muh Roni','Forum Facebook','Ismi Riko',
 
        ];
 
