@@ -1,4 +1,5 @@
-<?php
+
+### <?php
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
@@ -188,7 +189,7 @@ $data= ['H84391','C19302',
 'Ibnu Wildan','DuM DuM','Alifmaulanaishaq00 7','Tegoeh Pituwolu',
 'NURUL IMAMAH','Syafa Mx','jaran0917@gmail.com','Viermantz Chiboedaxslegedtz Nugraha','Black Shark','Muh Roni','Forum Facebook','Ismi Riko',
 'Amhs Ayuha','Rizki Fadillah','Fahmi Yea','Ren Gun','Si Cuplish',
-'Mercy Benz','fajar',
+'Mercy Benz','fajar','novan fardiansah','My Account','My Account','android cool','android cool','Yohanes Sefrianto','Bang Beib','Abid Nasrulloh','ferry edition','Dhe Va','Sena Hlb','Yusuf Panji','UnyiL Arfy','KRNOOB GAMING','Galuh Pratama','Novan Ferdiansyah','Nova Hermilinda','Bang Acil\'s',
 
        ];
 
