@@ -16,7 +16,7 @@ $vip1= false;
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
 
-$msgwe = "[•] member is uptodate".$t.$kuning."[•] untuk menjadi member gunakan kode invite di atas👆👆".$t;
+$msgwe = "[•] update memeber ok ".$t.$kuning."[•] untuk menjadi member gunakan kode invite di atas👆👆".$t;
 $donasi=true;
 $msgveeu = "[!] update skrip veeu".$t."[•] git clone https://github.com/adidoank/veeu";
 
