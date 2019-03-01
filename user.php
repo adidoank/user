@@ -192,7 +192,7 @@ $data= ['H84391','C19302',
 'Mercy Benz','fajar','novan fardiansah','My Account','My Account','android cool','android cool','Yohanes Sefrianto','Bang Beib','Abid Nasrulloh','ferry edition','Dhe Va','Sena Hlb','Yusuf Panji','UnyiL Arfy','KRNOOB GAMING','Galuh Pratama','Novan Ferdiansyah','Nova Hermilinda','Bang Acil\'s',
 'Wabidin __','Novan Ferdiansah','Zain Plong','Loading','Ibnu Aspar','ocid warhowl','Tuan anh Ngu','erusukami@gmail.com','Ngepet Dollar','Muhammad Imam Hafizh',
 'Sepatu Bro','Salvador Jeffrey','Jhetz','Xeon Gt','yoga pratama','DZ Gaming','Muhammad Khatama','Kha Han',
-
+'Muhamad Yoga','Jaenk Rane',
 
        ];
 
