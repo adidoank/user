@@ -197,6 +197,7 @@ $data= ['H84391','C19302',
 'Candu Sang P','Osnon Cobain','Hayi Sofantono','Cnazta Aquariuz','Enchi','Nur Rohman Firdaus','candu kopi','Ejenk Andreas','Muhammad Amin','Egy Fazry','Mercy Benz','Kopet','Dilah Art','Key Z','Budianto Riski','Umam Mayor','Akun Coc','Watch Earn','maulana eka',
 'Garena Free fire','Richard Antonio','Ade Karen',
 'Syed Naseer','Daniel Argus','Gimenz ID','Tedi Junaedi','  ꧾꧾ',
+'NimoLoL YT','Reza K','Masudi','  ꧾꧾ','Tari Wsm','zoe cold','Muammar Mufid','Luwi Yati','X Emperer28',
 
        ];
 
