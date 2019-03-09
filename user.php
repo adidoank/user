@@ -16,7 +16,12 @@ $vip1= false;
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
 
-$msgwe = "[•] sedang gangguan server ".$t.$kuning."[•] untuk menjadi member gunakan kode invite di atas👆👆".$t;
+$msgwe = 
+"[#] msg by => adidoank ".$t.
+"[!] info pendaftaran member di tutup".$t.
+"[-] vefun telah menghentikan layanan aplikasinya".$t.
+"[-] terimakasih telah menggunakan tools ini".$t.
+"[-] salam gretongers para tuyul indo".$t;
 $donasi=true;
 $msgveeu = "[!] update skrip veeu".$t."[•] git clone https://github.com/adidoank/veeu";
 
